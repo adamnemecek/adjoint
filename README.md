@@ -69,7 +69,7 @@ This [blog post](https://blog.demofox.org/2014/12/30/dual-numbers-automatic-diff
 Vladimir Vovk has developed theory of probability that can be easily recast in terms of linear logic.
 
 ## Potential applications
-I've been thinking about a new representation of polynomials. Instead of using zeros, one would use a sequence of dual numbers that capture the minima and maxima of the polynomial. Theoretically, one could then evaluate polynomials by some smooth interpolation between two neighbouring points.
+I've been thinking about a new representation of polynomials. Instead of using zeros, one would use a sequence of dual numbers that capture the minima and maxima of the polynomial. Theoretically, one could then evaluate polynomials by some smooth interpolation between two neighbouring points. Dual numbers allow you to capture the curvature at point naturally so it would make sense that this should be possible.
 
 
 
