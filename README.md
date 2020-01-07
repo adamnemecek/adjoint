@@ -48,6 +48,7 @@ In ECS, instead of using [arrays of structures, you use structure of arrays](htt
 ## Chu spaces
 [Chu spaces](https://en.wikipedia.org/wiki/Chu_space) are essentially matrices with certain limitation [(no duplicate rows or columns)](http://math.chapman.edu/~jipsen/sysmics/slides/Pratt4thSYSMICS2018.pdf). They can be used to model [linear logic](http://chu.stanford.edu/live/#7).
 
+I think of Chu spaces as objects with the good properties of tensors (covariance, contravariance) without being a pain-in-the-ass to work with.
 
 ## Constructive mathematics
 Constructive mathematics is mathematics without the law of excluded middle. To prove something, you need to show it's existence. These is a connection between [constructive mathematics and linear logic](https://arxiv.org/abs/1805.07518).
