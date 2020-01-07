@@ -50,6 +50,8 @@ In ECS, instead of using [arrays of structures, you use structure of arrays](htt
 
 I think of Chu spaces as objects with the good properties of tensors (covariance, contravariance) without being a pain-in-the-ass to work with.
 
+Check out this [blog post](https://boxbase.org/entries/2019/jul/15/chu-construction/).
+
 ## Constructive mathematics
 Constructive mathematics is mathematics without the law of excluded middle. To prove something, you need to show it's existence. These is a connection between [constructive mathematics and linear logic](https://arxiv.org/abs/1805.07518).
 
@@ -58,13 +60,16 @@ Constructive mathematics is mathematics without the law of excluded middle. To p
 Adjointness shows up in the context of [automatic differentiation](https://medium.com/@marksaroufim/automatic-differentiation-step-by-step-24240f97a6e6).
 The algebraic foundation of automatic differentiation relies on dual numbers, i.e. numbers of the form `a + b * epsilon`. `Epsilon` is a constant such that `epsilon^2=0 but epsilon != 0`. This is similar to imaginary unit except it squares to 0 instead of -1.
 
-The problem with differentiation as it's taught in school is that the expression length grows exponentially which makes it prohibitively slow for computation.
+The problem with differentiation as it's taught in school is that the expression length of the derivative grows exponentially which makes it prohibitively slow for computation.
 
 This [blog post](https://blog.demofox.org/2014/12/30/dual-numbers-automatic-differentiation/) is pretty decent.
 
 ## Probability
 
 Vladimir Vovk has developed theory of probability that can be easily recast in terms of linear logic.
+
+## Potential applications
+I've been thinking about a new representation of polynomials. Instead of using zeros, one would use a sequence of dual numbers that capture the minima and maxima of the polynomial. Theoretically, one could then evaluate polynomials by some smooth interpolation between two neighbouring points.
 
 
 
