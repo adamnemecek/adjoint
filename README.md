@@ -22,7 +22,7 @@ Nilpotence is another way of viewing adjointness.
 Adjointness is only a part of the story. One often sees equations of the following form `inv(x) = adjoint(x)/norm(x)`. Once you have `adjoint` and `norm`, you magically get `inverse`.
 
 ## Norm
-Norm essentially allows you do a 1-on-1 comparisons. Yes, database normalization falls in this category.
+Norm essentially allows you do a 1-on-1 comparisons. Yes, database normalization falls in this category. Another way of looking at this is that by dividing by norm, you get some in some sense canonical form of the object in question. What is a canonical form? 
 
 ## Category theory
 Adjoint functors are the foundation of "category theory". Adjoint functors capture [solutions to optimization problems](https://en.wikipedia.org/wiki/Adjoint_functors#Solutions_to_optimization_problems).
