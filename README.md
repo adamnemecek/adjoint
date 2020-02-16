@@ -4,25 +4,31 @@ This document is very much a work-in-progress braindump, so please judge it acco
 
 ## Adjoint
 
-Adjointness expresses a condition that is essentially universal in mathematics, category theory, probability, logic, optimization, machine learning.
+Adjointness expresses a condition that is essentially universal in mathematics, category theory, probability, logic, optimization, machine learning. It captures this difference between global and local.
 
 What is adjointness? Depends on the context.
 
 [This page](http://www.reproducibility.org/RSF/book/bei/conj/paper_html/index.html) is illuminating.
 
-I like this definition: "adjoint operator ... back-projects information from data to the underlying model."
+I like this definition: 
+> "adjoint operator ... back-projects information from data to the underlying model."
 
 Essentially, it carries information about possible states at a point in time so that we can go back and forth. This allows you do optimizations that are otherwise not possible.
 
-One can also see it as the adversarial relationship between two things. This relationship is so common that once you see it, you can't unsee it.
+One can also see it as the _adversarial relationship_ between two things. This relationship is so common that once you see it, you can't unsee it.
 
 Nilpotence is another way of viewing adjointness.
 
 ## Inverse
-Adjointness is only a part of the story. One often sees equations of the following form `inv(x) = adjoint(x)/norm(x)`. Once you have `adjoint` and `norm`, you magically get `inverse`.
+Adjointness is only a part of the story. One often sees equations of the following form `inverse(x) = adjoint(x)/norm(x)`. Once you have `adjoint` and `norm`, you magically get `inverse`.
 
 ## Norm
-Norm essentially allows you do a 1-on-1 comparisons. Yes, database normalization falls in this category. Another way of looking at this is that by dividing by norm, you get some in some sense canonical form of the object in question. What is a canonical form? 
+Norm essentially allows you do a 1-on-1 comparisons. Yes, database normalization falls in this category. Another way of looking at this is that by dividing by norm, you get some in some sense _canonical form_ of the object in question. What is a canonical form? Computation. 
+
+> Systems of formal logic, such as type theory, try to transform expressions into a canonical form which then serves as the end result of the given computation or deduction.
+
+from [ncatlab](https://ncatlab.org/nlab/show/canonical+form).
+
 
 ## Category theory
 Adjoint functors are the foundation of "category theory". Adjoint functors capture [solutions to optimization problems](https://en.wikipedia.org/wiki/Adjoint_functors#Solutions_to_optimization_problems).
