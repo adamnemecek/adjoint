@@ -4,7 +4,7 @@ This document is very much a work-in-progress braindump, so please judge it acco
 
 ## Adjoint
 
-Adjointness expresses a condition that is essentially universal in mathematics, category theory, probability, logic, optimization, machine learning. It captures this difference between global and local.
+Adjointness expresses a condition that is essentially universal in mathematics, category theory, probability, logic, optimization, machine learning. It captures this difference between global and local. Adjointness operates locally, norm operates globally.
 
 What is adjointness? Depends on the context.
 
@@ -28,6 +28,10 @@ Norm essentially allows you do a 1-on-1 comparisons. Yes, database normalization
 > Systems of formal logic, such as type theory, try to transform expressions into a canonical form which then serves as the end result of the given computation or deduction.
 
 from [ncatlab](https://ncatlab.org/nlab/show/canonical+form).
+
+## Fourier transform
+
+You get the inverse of a Fourier transform by taking the adjoint of the sum (in this case, you do conjugate the exponents) and divide it by a norm `1/length(signal)`. Notice how adjoint operates locally (on the single exponents) and the norms operates globally (it knows how many elements are in the signal.
 
 
 ## Category theory
