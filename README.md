@@ -17,7 +17,9 @@ Essentially, it carries information about possible states at a point in time so 
 
 One can also see it as the _adversarial relationship_ between two things. This relationship is so common that once you see it, you can't unsee it.
 
-Nilpotence is another way of viewing adjointness.
+_Adjointness expresses a condition that allows for inference, causality, and optimization_. If the adjoint condition is met, information from one dimension can be used to make predictions about another dimension.
+
+Nilpotence is another way of viewing adjointness. 
 
 ## Inverse
 Adjointness is only a part of the story. One often sees equations of the following form `inverse(x) = adjoint(x)/norm(x)`. Once you have `adjoint` and `norm`, you magically get `inverse`.
@@ -28,6 +30,18 @@ Norm essentially allows you do a 1-on-1 comparisons. Yes, database normalization
 > Systems of formal logic, such as type theory, try to transform expressions into a canonical form which then serves as the end result of the given computation or deduction.
 
 from [ncatlab](https://ncatlab.org/nlab/show/canonical+form).
+
+## Identity
+> Every diagonal argument -- Cantor's theorem, Russell's paradox, Gödel's incompleteness theorem, the halting problem, the Y combinator, Curry's paradox, etc. -- uses the same basic trick. This trick is expressed explicitly by Lawvere's fixed point theorem: https://ncatlab.org/nlab/show/Lawvere%27s+fixed+point+theorem
+
+As stated above `inverse(x) = adjoint(x)/norm(x)`. We add an additional constraint, the unitarity `identity(x) = x/norm(x)`.
+
+## Linear algebra
+The inner and outer product can be expressed succinctly in terms of adjoints.
+```julia
+inner(a) = a'*a
+outer(a) = a*a'
+```
 
 ## Fourier transform
 
@@ -77,6 +91,12 @@ This [blog post](https://blog.demofox.org/2014/12/30/dual-numbers-automatic-diff
 ## Probability
 
 Vladimir Vovk has developed theory of probability that can be easily recast in terms of linear logic.
+
+Roughtly, translated [Kolmogorov's 3 axioms](https://en.wikipedia.org/wiki/Probability_axioms) can be read as follows:
+1.) norm
+2.) unitarity
+3.) adjointness (notice how we turn the inside product into the outside sum) 
+ 
 
 ## Potential applications
 I've been thinking about a new representation of polynomials. Instead of using zeros, one would use a sequence of dual numbers that capture the minima and maxima of the polynomial. Theoretically, one could then evaluate polynomials by some smooth interpolation between two neighbouring points. Dual numbers allow you to capture the curvature at point naturally so it would make sense that this should be possible.
