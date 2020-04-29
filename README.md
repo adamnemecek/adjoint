@@ -34,7 +34,7 @@ from [ncatlab](https://ncatlab.org/nlab/show/canonical+form).
 ## Identity
 > Every diagonal argument -- Cantor's theorem, Russell's paradox, Gödel's incompleteness theorem, the halting problem, the Y combinator, Curry's paradox, etc. -- uses the same basic trick. This trick is expressed explicitly by Lawvere's fixed point theorem: https://ncatlab.org/nlab/show/Lawvere%27s+fixed+point+theorem
 
-As stated above `inverse(x) = adjoint(x)/norm(x)`. We add an additional constraint, the unitarity `identity(x) = x/norm(x)`.
+As stated above `inverse(x) = adjoint(x)/norm(x)`. We add an additional constraint, the unitarity `identity(x) = x/inv(x)`.
 
 ## Linear algebra
 The inner and outer product can be expressed succinctly in terms of adjoints.
