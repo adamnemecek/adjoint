@@ -103,6 +103,13 @@ Roughtly, translated [Kolmogorov's 3 axioms](https://en.wikipedia.org/wiki/Proba
 ## Potential applications
 I've been thinking about a new representation of polynomials. Instead of using zeros, one would use a sequence of dual numbers that capture the minima and maxima of the polynomial. Theoretically, one could then evaluate polynomials by some smooth interpolation between two neighbouring points. Dual numbers allow you to capture the curvature at point naturally so it would make sense that this should be possible.
 
+## Related concepts (these will be explained layer)
+* Young tableau
+* Non-commutative logic
+* Message passing + adjoint logic
+* [backpropagation (and others)](https://twitter.com/breandan/status/1324566706908483586)
+
+
 
 
 
