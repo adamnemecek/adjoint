@@ -108,6 +108,8 @@ I've been thinking about a new representation of polynomials. Instead of using z
 * Non-commutative logic
 * Message passing + adjoint logic
 * [backpropagation (and others)](https://twitter.com/breandan/status/1324566706908483586)
+* spectral theorem
+
 
 
 
