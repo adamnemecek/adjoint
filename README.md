@@ -1,4 +1,8 @@
 # Adjointness, norm, and you...
+<!-- 
+fdsa
+fsda
+-->
 
 This document is very much a work-in-progress braindump, so please judge it accordingly.
 
