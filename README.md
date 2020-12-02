@@ -1,7 +1,8 @@
 # Adjointness, norm, and you...
 <!-- 
-fdsa
-fsda
+* diagonalization & markov property https://www.math.wustl.edu/~freiwald/309markov.pdf
+* what is the meaning of orthogonality (in the context of c*?)
+* qr decomposition
 -->
 
 This document is very much a work-in-progress braindump, so please judge it accordingly.
