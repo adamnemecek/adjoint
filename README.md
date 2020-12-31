@@ -7,6 +7,13 @@
 
 [duality of state and observations](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.123.7075&rep=rep1&type=pdf)
 [Parallel algorithms for finding common fixed points of paracontractions](https://www.researchgate.net/publication/233110331_Parallel_algorithms_for_finding_common_fixed_points_of_paracontractions)
+
+"fixed point" "reinforcement learning"
+
+"fixed point" "dynamic programming"
+* http://www.mit.edu/~dimitrib/Semicontractive_Lecture3.pdf
+
+* https://people.eecs.berkeley.edu/~pabbeel/cs287-fa09/lecture-notes/lecture5-2pp.pdf
 -->
 
 This document is very much a work-in-progress braindump, so please judge it accordingly.
