@@ -6,6 +6,7 @@
 * upper trianglular = modulo
 
 [duality of state and observations](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.123.7075&rep=rep1&type=pdf)
+[Parallel algorithms for finding common fixed points of paracontractions](https://www.researchgate.net/publication/233110331_Parallel_algorithms_for_finding_common_fixed_points_of_paracontractions)
 -->
 
 This document is very much a work-in-progress braindump, so please judge it accordingly.
