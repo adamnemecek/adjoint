@@ -4,6 +4,8 @@
 * what is the meaning of orthogonality (in the context of c*?)
 * qr decomposition = upper triangular * diagonal
 * upper trianglular = modulo
+
+[duality of state and observations](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.123.7075&rep=rep1&type=pdf)
 -->
 
 This document is very much a work-in-progress braindump, so please judge it accordingly.
