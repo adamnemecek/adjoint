@@ -14,6 +14,8 @@
 * http://www.mit.edu/~dimitrib/Semicontractive_Lecture3.pdf
 
 * https://people.eecs.berkeley.edu/~pabbeel/cs287-fa09/lecture-notes/lecture5-2pp.pdf
+
+https://bartoszmilewski.com/2019/11/06/fixed-points-and-diagonal-arguments/
 -->
 
 This document is very much a work-in-progress braindump, so please judge it accordingly.
