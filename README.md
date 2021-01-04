@@ -18,6 +18,9 @@
 https://bartoszmilewski.com/2019/11/06/fixed-points-and-diagonal-arguments/
 
 * given a map, you can decompose it to a nilpotent and a invertible part https://web.evanchen.cc/notes/Harvard-55a.pdf (page 30)
+
+product of unions = sum of products (third kolmogorov axiom) really means that you have a norm?
+* 1/2 or 1/sqrt(2) are really just pythagorean theorem
 -->
 
 This document is very much a work-in-progress braindump, so please judge it accordingly.
