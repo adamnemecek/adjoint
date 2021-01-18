@@ -4,6 +4,7 @@
 * what is the meaning of orthogonality (in the context of c*?)
 * qr decomposition = upper triangular * diagonal
 * upper trianglular = modulo
+* fixed point self-referentiality https://link.springer.com/article/10.1007/BF01405490
 
 [duality of state and observations](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.123.7075&rep=rep1&type=pdf)
 [Parallel algorithms for finding common fixed points of paracontractions](https://www.researchgate.net/publication/233110331_Parallel_algorithms_for_finding_common_fixed_points_of_paracontractions)
