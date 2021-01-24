@@ -5,6 +5,10 @@
 * qr decomposition = upper triangular * diagonal
 * upper trianglular = modulo
 * fixed point self-referentiality https://link.springer.com/article/10.1007/BF01405490
+* bisimulation https://en.wikipedia.org/wiki/Bisimulation#Fixpoint_definition
+ * Bisimilarity can also be defined in order theoretical fashion, in terms of fixpoint theory, more precisely as the greatest fixed point of a certain function defined below.
+
+
 
 [duality of state and observations](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.123.7075&rep=rep1&type=pdf)
 [Parallel algorithms for finding common fixed points of paracontractions](https://www.researchgate.net/publication/233110331_Parallel_algorithms_for_finding_common_fixed_points_of_paracontractions)
