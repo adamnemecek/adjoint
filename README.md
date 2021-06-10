@@ -26,6 +26,8 @@ https://bartoszmilewski.com/2019/11/06/fixed-points-and-diagonal-arguments/
 
 product of unions = sum of products (third kolmogorov axiom) really means that you have a norm?
 * 1/2 or 1/sqrt(2) are really just pythagorean theorem
+
+* contraction mapping + dynamic programming https://www.math.wustl.edu/~freiwald/309markov.pdf
 -->
 
 This document is very much a work-in-progress braindump, so please judge it accordingly.
