@@ -145,7 +145,7 @@ I've been thinking about a new representation of polynomials. Instead of using z
 <!--
 # spectra
 * https://math.stackexchange.com/questions/25126/is-it-possible-to-link-the-eigenvalues-of-a-matrix-to-the-fourier-transform-of-t
-* 
+* https://en.wikipedia.org/wiki/Parseval%27s_theorem
 -->
 
 
