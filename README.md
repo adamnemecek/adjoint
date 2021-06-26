@@ -8,6 +8,10 @@
 * bisimulation https://en.wikipedia.org/wiki/Bisimulation#Fixpoint_definition
  * Bisimilarity can also be defined in order theoretical fashion, in terms of fixpoint theory, more precisely as the greatest fixed point of a certain function defined below.
 
+* https://en.wikipedia.org/wiki/Spectral_theorem
+* https://math.stackexchange.com/questions/1815161/relationship-between-fourier-coefficients-eigenvalues-and-the-spectrum-of-a-ri
+*  prime number decomposition of the fourier transform https://arxiv.org/pdf/1410.2054v1.pdf
+
 
 
 [duality of state and observations](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.123.7075&rep=rep1&type=pdf)
