@@ -13,6 +13,9 @@
 *  prime number decomposition of the fourier transform https://arxiv.org/pdf/1410.2054v1.pdf
 * https://math.stackexchange.com/questions/25126/is-it-possible-to-link-the-eigenvalues-of-a-matrix-to-the-fourier-transform-of-t
 
+* https://en.wikipedia.org/wiki/Circulant_matrix
+ * In numerical analysis, circulant matrices are important because they are diagonalized by a discrete Fourier transform, and hence linear equations that contain them may be quickly solved using a fast Fourier transform.[1] They can be interpreted analytically as the integral kernel of a convolution operator on the cyclic group {\displaystyle C_{n}}C_{n} and hence frequently appear in formal descriptions of spatially invariant linear operations.
+
 
 
 [duality of state and observations](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.123.7075&rep=rep1&type=pdf)
