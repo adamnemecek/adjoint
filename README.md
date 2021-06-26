@@ -11,6 +11,7 @@
 * https://en.wikipedia.org/wiki/Spectral_theorem
 * https://math.stackexchange.com/questions/1815161/relationship-between-fourier-coefficients-eigenvalues-and-the-spectrum-of-a-ri
 *  prime number decomposition of the fourier transform https://arxiv.org/pdf/1410.2054v1.pdf
+* https://math.stackexchange.com/questions/25126/is-it-possible-to-link-the-eigenvalues-of-a-matrix-to-the-fourier-transform-of-t
 
 
 
