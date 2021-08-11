@@ -108,6 +108,9 @@ Linear logic is a logic of resources, i.e. you have to use facts to derive new f
 It can also be seen as a ["the interpretation of classical logic by replacing Boolean algebras by C*-algebras"](https://en.wikipedia.org/wiki/Linear_logic). Linear logic can therefore be as a logic with `adjoint` and `norm`. See how linear logic maps to Chu spaces for further detail. Linear logic has been futher expanded into [adjoint logic](https://www.cs.cmu.edu/~fp/papers/adjoint18b.pdf).
 The Rust borrow checker is based on a subset of linear logic. This is what allows Rust to reason about resource ownership statically.
 
+## Quantum mechanics
+In the Linear logic section, we mention the idea of having to use axioms to derive new axioms. This is the core idea behind the [no-cloning theorem](https://en.wikipedia.org/wiki/No-cloning_theorem) as well. Futhermore the connections between C* (which has closure under adjoint and norm) and quantum mechanics are well documented (https://www.math.uchicago.edu/~may/VIGRE/VIGRE2009/REUPapers/Gleason.pdf).
+
 ## Entity component system
 This might be a stretch but I see some of these ideas present even in the context of [entity component systems](https://en.wikipedia.org/wiki/Entity_component_system). ECS is used heavily in games but it has applications beyond that.
 In ECS, instead of using [arrays of structures, you use structure of arrays](https://en.wikipedia.org/wiki/AoS_and_SoA) which to me sounds like an adjoint. In ECS, your data is normalized so that it allows for `1-on-1` comparisons.
