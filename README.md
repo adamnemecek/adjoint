@@ -7,6 +7,7 @@
 * fixed point self-referentiality https://link.springer.com/article/10.1007/BF01405490
 * bisimulation https://en.wikipedia.org/wiki/Bisimulation#Fixpoint_definition
  * Bisimilarity can also be defined in order theoretical fashion, in terms of fixpoint theory, more precisely as the greatest fixed point of a certain function defined below.
+* https://eprints.illc.uva.nl/id/eprint/969/1/MoL-2015-28.text.pdf
 
 * 
 
