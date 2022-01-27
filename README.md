@@ -11,6 +11,8 @@
 
 * Optimal Implementation of Functional Programming Languages: https://github.com/asperti/BOHM1.1
 
+* PROBABILITY, MARXISM, AND QUANTUM ENSEMBLES https://history.ubc.ca/wp-content/uploads/sites/23/2019/06/probability2012.pdf
+
 * https://en.wikipedia.org/wiki/Spectral_theorem
 * https://math.stackexchange.com/questions/1815161/relationship-between-fourier-coefficients-eigenvalues-and-the-spectrum-of-a-ri
 *  prime number decomposition of the fourier transform https://arxiv.org/pdf/1410.2054v1.pdf
