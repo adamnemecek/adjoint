@@ -42,6 +42,11 @@ product of unions = sum of products (third kolmogorov axiom) really means that y
 * 1/2 or 1/sqrt(2) are really just pythagorean theorem
 
 * contraction mapping + dynamic programming https://www.math.wustl.edu/~freiwald/309markov.pdf
+
+## fixed point
+* http://nlab-pages.s3.us-east-2.amazonaws.com/nlab/show/Lawvere's+fixed+point+theorem
+* In ‘Diagonal arguments and Cartesian closed categories’ (Lawvere 69) we demystified the incompleteness theorem of Gödel and the truth-definition theory of Tarski by showing that both are consequences of some very simple algebra in the Cartesian-closed setting. 
+* http://emis.matem.unam.mx/journals/TAC/reprints/articles/15/tr15.pdf
 -->
 
 This document is very much a work-in-progress braindump, so please judge it accordingly.
