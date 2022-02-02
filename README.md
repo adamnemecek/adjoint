@@ -8,6 +8,8 @@
 * bisimulation https://en.wikipedia.org/wiki/Bisimulation#Fixpoint_definition
  * Bisimilarity can also be defined in order theoretical fashion, in terms of fixpoint theory, more precisely as the greatest fixed point of a certain function defined below.
 * https://eprints.illc.uva.nl/id/eprint/969/1/MoL-2015-28.text.pdf
+* [Coalgebras, Chu Spaces, and Representations of Physical Systems](https://arxiv.org/abs/0910.3959)
+* [Big Toy Models: Representing Physical Systems As Chu Spaces](https://arxiv.org/abs/0910.2393)
 
 * Optimal Implementation of Functional Programming Languages: https://github.com/asperti/BOHM1.1
 
