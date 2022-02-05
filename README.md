@@ -26,6 +26,8 @@
 fourier number multiplication 
 * https://math.stackexchange.com/questions/27444/integer-multiplication-using-fft
 
+* [A Generic Logic for Proving Linearizability](https://artkhyzha.github.io/papers/fm16-extended.pdf)
+
 * [The Fourier Transform As Diagonalization](https://www.science20.com/jon_lederman/fourier_transform_diagonalization)
 
 [duality of state and observations](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.123.7075&rep=rep1&type=pdf)
