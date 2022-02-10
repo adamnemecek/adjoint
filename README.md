@@ -1,5 +1,7 @@
 # Adjointness, norm, and you...
 <!-- 
+
+
 * diagonalization & markov property https://www.math.wustl.edu/~freiwald/309markov.pdf
 * what is the meaning of orthogonality (in the context of c*?)
 * qr decomposition = upper triangular * diagonal
@@ -32,6 +34,17 @@ fourier number multiplication
 
 [duality of state and observations](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.123.7075&rep=rep1&type=pdf)
 [Parallel algorithms for finding common fixed points of paracontractions](https://www.researchgate.net/publication/233110331_Parallel_algorithms_for_finding_common_fixed_points_of_paracontractions)
+
+* proof net & string diagram 
+ * [Proof Diagrams for Multiplicative Linear Logic](https://arxiv.org/pdf/1606.09016.pdf)
+ * 
+
+# fixed point
+* Fixed points are everywhere
+* paxos is a fixed point algorithm
+ * [Generalized Consensus and Paxos](https://www.semanticscholar.org/paper/Generalized-Consensus-and-Paxos-Lamport/fc3fbb4c76448e8968f8a19f076d133b2e7a2849)
+* trace theory
+ * [trace theory http://www.cas.mcmaster.ca/~cas724/2007/paper2.pdf
 
 "fixed point" "reinforcement learning"
 
