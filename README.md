@@ -13,6 +13,9 @@
 * [Coalgebras, Chu Spaces, and Representations of Physical Systems](https://arxiv.org/abs/0910.3959)
 * [Big Toy Models: Representing Physical Systems As Chu Spaces](https://arxiv.org/abs/0910.2393)
 
+# reciprocal lattice 
+ * https://en.wikipedia.org/wiki/Reciprocal_lattice
+ * In physics, the reciprocal lattice represents the Fourier transform of another lattice 
 
 # operator algebra
  * https://www.google.com/books/edition/Advances_in_Linear_Logic/ROEf2h5FvD4C?hl=en&gbpv=1&dq=%22operator+algebra%22+logic&pg=PA38&printsec=frontcover mentions operator algebras
