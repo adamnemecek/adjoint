@@ -5,6 +5,7 @@
  * https://wikimpri.dptinfo.ens-cachan.fr/lib/exe/fetch.php?media=cours:upload:cours-2021-mpri-partie-i-goodmpri.pdf
 * [Sometimes all functions are continuous](http://math.andrej.com/2006/03/27/sometimes-all-functions-are-continuous/#:~:text=A%20function%20is%20computably%20continuous,of%20are%20needed%20to%20determine%20.)
 
+
 * diagonalization & markov property https://www.math.wustl.edu/~freiwald/309markov.pdf
 * what is the meaning of orthogonality (in the context of c*?)
 * qr decomposition = upper triangular * diagonal
@@ -27,6 +28,8 @@
  * https://www.google.com/books/edition/Advances_in_Linear_Logic/ROEf2h5FvD4C?hl=en&gbpv=1&dq=%22operator+algebra%22+logic&pg=PA38&printsec=frontcover mentions operator algebras
 * Optimal Implementation of Functional Programming Languages: https://github.com/asperti/BOHM1.1
 * [OPERATOR ALGEBRAS AND THE OPERATIONAL SEMANTICS OF PROBABILISTIC LANGUAGES](https://cyberleninka.org/article/n/1010639)
+* [Semantics for a Quantum Programming Language by Operator Algebras](https://arxiv.org/pdf/1412.8545.pdf)
+* [Prolegomena to an Operator Theory of Computation](https://www.mdpi.com/2078-2489/11/7/349/htm)
 
 * PROBABILITY, MARXISM, AND QUANTUM ENSEMBLES https://history.ubc.ca/wp-content/uploads/sites/23/2019/06/probability2012.pdf
 
