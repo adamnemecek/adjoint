@@ -13,6 +13,9 @@
 * [Coalgebras, Chu Spaces, and Representations of Physical Systems](https://arxiv.org/abs/0910.3959)
 * [Big Toy Models: Representing Physical Systems As Chu Spaces](https://arxiv.org/abs/0910.2393)
 
+# non-commutative linear logic
+* [On noncommutative extensions of linear logic](https://arxiv.org/pdf/1703.10092.pdf)
+
 # reciprocal lattice 
  * https://en.wikipedia.org/wiki/Reciprocal_lattice
  * In physics, the reciprocal lattice represents the Fourier transform of another lattice 
