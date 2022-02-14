@@ -26,6 +26,7 @@
 # operator algebra
  * https://www.google.com/books/edition/Advances_in_Linear_Logic/ROEf2h5FvD4C?hl=en&gbpv=1&dq=%22operator+algebra%22+logic&pg=PA38&printsec=frontcover mentions operator algebras
 * Optimal Implementation of Functional Programming Languages: https://github.com/asperti/BOHM1.1
+* [OPERATOR ALGEBRAS AND THE OPERATIONAL SEMANTICS OF PROBABILISTIC LANGUAGES](https://cyberleninka.org/article/n/1010639)
 
 * PROBABILITY, MARXISM, AND QUANTUM ENSEMBLES https://history.ubc.ca/wp-content/uploads/sites/23/2019/06/probability2012.pdf
 
