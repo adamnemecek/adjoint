@@ -1,6 +1,9 @@
 # Adjointness, norm, and you...
 <!-- 
-
+# all computable functions are continous 
+ * https://cs.stackexchange.com/questions/80978/why-are-computable-functions-continuous
+ * https://wikimpri.dptinfo.ens-cachan.fr/lib/exe/fetch.php?media=cours:upload:cours-2021-mpri-partie-i-goodmpri.pdf
+* [Sometimes all functions are continuous](http://math.andrej.com/2006/03/27/sometimes-all-functions-are-continuous/#:~:text=A%20function%20is%20computably%20continuous,of%20are%20needed%20to%20determine%20.)
 
 * diagonalization & markov property https://www.math.wustl.edu/~freiwald/309markov.pdf
 * what is the meaning of orthogonality (in the context of c*?)
