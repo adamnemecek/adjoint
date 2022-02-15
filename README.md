@@ -6,6 +6,8 @@
 * [Sometimes all functions are continuous](http://math.andrej.com/2006/03/27/sometimes-all-functions-are-continuous/#:~:text=A%20function%20is%20computably%20continuous,of%20are%20needed%20to%20determine%20.)
 
 
+
+
 * diagonalization & markov property https://www.math.wustl.edu/~freiwald/309markov.pdf
 * what is the meaning of orthogonality (in the context of c*?)
 * qr decomposition = upper triangular * diagonal
@@ -30,6 +32,11 @@
 * [OPERATOR ALGEBRAS AND THE OPERATIONAL SEMANTICS OF PROBABILISTIC LANGUAGES](https://cyberleninka.org/article/n/1010639)
 * [Semantics for a Quantum Programming Language by Operator Algebras](https://arxiv.org/pdf/1412.8545.pdf)
 * [Prolegomena to an Operator Theory of Computation](https://www.mdpi.com/2078-2489/11/7/349/htm)
+* equivalence of boundedness and continuity https://en.wikipedia.org/wiki/Bounded_operator
+ * note that all computable functions are continous
+
+## spectral theory
+ * [The Fourier transform on the real line is in one sense the spectral theory of differentiation qua differential operator.](https://en.wikipedia.org/wiki/Spectral_theory)
 
 * PROBABILITY, MARXISM, AND QUANTUM ENSEMBLES https://history.ubc.ca/wp-content/uploads/sites/23/2019/06/probability2012.pdf
 
