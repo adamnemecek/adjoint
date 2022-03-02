@@ -5,7 +5,7 @@
  * https://wikimpri.dptinfo.ens-cachan.fr/lib/exe/fetch.php?media=cours:upload:cours-2021-mpri-partie-i-goodmpri.pdf
 * [Sometimes all functions are continuous](http://math.andrej.com/2006/03/27/sometimes-all-functions-are-continuous/#:~:text=A%20function%20is%20computably%20continuous,of%20are%20needed%20to%20determine%20.)
 
-
+* a dfa and an nfa can both be represented as a binary transition matrix meaning one can calculate their fourier
 
 
 * diagonalization & markov property https://www.math.wustl.edu/~freiwald/309markov.pdf
