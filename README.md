@@ -7,6 +7,7 @@
 
 * a dfa and an nfa can both be represented as a binary transition matrix meaning one can calculate their fourier
 
+* A game semantics for proof search: Preliminary results
 
 * diagonalization & markov property https://www.math.wustl.edu/~freiwald/309markov.pdf
 * what is the meaning of orthogonality (in the context of c*?)
