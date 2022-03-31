@@ -63,7 +63,7 @@ fourier number multiplication
  * [Proof Diagrams for Multiplicative Linear Logic](https://arxiv.org/pdf/1606.09016.pdf)
  * 
 
-# fixed point
+## fixed point
 * Fixed points are everywhere
 * paxos is a fixed point algorithm
  * [Generalized Consensus and Paxos](https://www.semanticscholar.org/paper/Generalized-Consensus-and-Paxos-Lamport/fc3fbb4c76448e8968f8a19f076d133b2e7a2849)
@@ -94,6 +94,8 @@ product of unions = sum of products (third kolmogorov axiom) really means that y
 * "geometry of interaction" "fixed point"
  * [Towards a Typed Geometry of Interaction](https://cgi.luddy.indiana.edu/~ehaghver/HS-CSL05-LNCS.pdf)
  * [Geometry of Interaction and the Dynamics of Proof Reduction: a tutorial](https://cgi.luddy.indiana.edu/~ehaghver/Tutorial.pdf)
+
+* [Flow Analysis in the Geometry of Interaction](https://link.springer.com/content/pdf/10.1007/3-540-61055-3_37.pdf)
 -->
 
 This document is very much a work-in-progress braindump, so please judge it accordingly.
