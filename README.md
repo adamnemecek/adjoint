@@ -96,6 +96,8 @@ product of unions = sum of products (third kolmogorov axiom) really means that y
  * [Geometry of Interaction and the Dynamics of Proof Reduction: a tutorial](https://cgi.luddy.indiana.edu/~ehaghver/Tutorial.pdf)
 
 * [Flow Analysis in the Geometry of Interaction](https://link.springer.com/content/pdf/10.1007/3-540-61055-3_37.pdf)
+* [Girard's !() as a reversible fixed-point operator](https://arxiv.org/abs/1309.0361)
+* [Feedback for linearly distributive categories: traces and fixpoints](https://www.math.mcgill.ca/rags/linear/trace.pdf)
 -->
 
 This document is very much a work-in-progress braindump, so please judge it accordingly.
