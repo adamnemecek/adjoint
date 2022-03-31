@@ -90,6 +90,10 @@ product of unions = sum of products (third kolmogorov axiom) really means that y
 * http://nlab-pages.s3.us-east-2.amazonaws.com/nlab/show/Lawvere's+fixed+point+theorem
 * In ‘Diagonal arguments and Cartesian closed categories’ (Lawvere 69) we demystified the incompleteness theorem of Gödel and the truth-definition theory of Tarski by showing that both are consequences of some very simple algebra in the Cartesian-closed setting. 
 * http://emis.matem.unam.mx/journals/TAC/reprints/articles/15/tr15.pdf
+
+* "geometry of interaction" "fixed point"
+ * [Towards a Typed Geometry of Interaction](https://cgi.luddy.indiana.edu/~ehaghver/HS-CSL05-LNCS.pdf)
+ * [Geometry of Interaction and the Dynamics of Proof Reduction: a tutorial](https://cgi.luddy.indiana.edu/~ehaghver/Tutorial.pdf)
 -->
 
 This document is very much a work-in-progress braindump, so please judge it accordingly.
