@@ -38,6 +38,7 @@
 
 ## spectral theory
  * [The Fourier transform on the real line is in one sense the spectral theory of differentiation qua differential operator.](https://en.wikipedia.org/wiki/Spectral_theory)
+* ["Hilbert himself was surprised by the unexpected application of this theory, noting that "I developed my theory of infinitely many variables from purely mathematical interests, and even called it 'spectral analysis' without any presentiment that it would later find application to the actual spectrum of physics."](https://en.wikipedia.org/wiki/Spectral_theory)
 
 * PROBABILITY, MARXISM, AND QUANTUM ENSEMBLES https://history.ubc.ca/wp-content/uploads/sites/23/2019/06/probability2012.pdf
 
