@@ -80,6 +80,9 @@ fourier number multiplication
 
 https://bartoszmilewski.com/2019/11/06/fixed-points-and-diagonal-arguments/
 
+* https://en.wikipedia.org/wiki/Fixed_point_(mathematics)
+ * 
+
 * given a map, you can decompose it to a nilpotent and a invertible part https://web.evanchen.cc/notes/Harvard-55a.pdf (page 30)
 
 product of unions = sum of products (third kolmogorov axiom) really means that you have a norm?
