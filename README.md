@@ -7,6 +7,8 @@
 
 * a dfa and an nfa can both be represented as a binary transition matrix meaning one can calculate their fourier
 
+* google: foruier "travelling salesman"
+ * [Optical processor for solving the traveling salesman problem (TSP)](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.211.150&rep=rep1&type=pdf)
 * A game semantics for proof search: Preliminary results
 
 * diagonalization & markov property https://www.math.wustl.edu/~freiwald/309markov.pdf
