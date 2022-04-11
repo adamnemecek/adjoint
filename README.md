@@ -7,6 +7,11 @@
 
 * a dfa and an nfa can both be represented as a binary transition matrix meaning one can calculate their fourier
 
+* boundary value
+ * https://matjohn.ku.edu/Notes/Math951Notes_Ch4.pdf
+ * https://advancesindifferenceequations.springeropen.com/articles/10.1186/1687-1847-2014-14
+ * [A fixed point iterative method for the solution of two-point boundary value problems for a second order differential equations](https://www.sciencedirect.com/science/article/pii/S1110016817302958value )
+
 * google: foruier "travelling salesman"
  * [Optical processor for solving the traveling salesman problem (TSP)](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.211.150&rep=rep1&type=pdf)
 * A game semantics for proof search: Preliminary results
