@@ -1,5 +1,10 @@
 # Adjointness, norm, and you...
-<!-- 
+<!--
+# abstract interpretation and programsyntehsis are adjoints
+* 
+
+* lists are nilpotent
+
 # all computable functions are continous 
  * https://cs.stackexchange.com/questions/80978/why-are-computable-functions-continuous
  * https://wikimpri.dptinfo.ens-cachan.fr/lib/exe/fetch.php?media=cours:upload:cours-2021-mpri-partie-i-goodmpri.pdf
