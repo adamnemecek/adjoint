@@ -1,5 +1,7 @@
 # Adjointness, norm, and you...
 <!--
+
+* [On modeling and complete solutions to general fixpoint problems in multi-scale systems with applications](https://fixedpointtheoryandapplications.springeropen.com/articles/10.1186/s13663-018-0648-x)
 # abstract interpretation and programsyntehsis are adjoints
 * 
 
