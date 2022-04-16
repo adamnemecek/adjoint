@@ -1,5 +1,9 @@
 # Adjointness, norm, and you...
 <!--
+* [Fixed points in programming: datatypes and protocols](https://math.usask.ca/fvk/Cockett%20talk%20Saskatoon-2014.pdf)
+* [What is a good process semantics?](https://pages.cpsc.ucalgary.ca/~robin/talks/estonia.pdf)
+
+* operad is a norm
 
 * [On modeling and complete solutions to general fixpoint problems in multi-scale systems with applications](https://fixedpointtheoryandapplications.springeropen.com/articles/10.1186/s13663-018-0648-x)
 # abstract interpretation and programsyntehsis are adjoints
