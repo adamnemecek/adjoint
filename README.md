@@ -11,6 +11,9 @@ AND INFORMATION SYSTEMS](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1
 * [A mosaic of Chu spaces and Channel Theory I: Category-theoretic concepts and tools](https://chrisfieldsresearch.com/mosaic1-pre.pdfce)
 * operad is a norm
 
+## query: spectral methods probability
+* [Spectral methods for a generalized probability theory](https://www.ams.org/journals/tran/1965-119-03/S0002-9947-1965-0183657-6/S0002-9947-1965-0183657-6.pdf)
+
 * [On modeling and complete solutions to general fixpoint problems in multi-scale systems with applications](https://fixedpointtheoryandapplications.springeropen.com/articles/10.1186/s13663-018-0648-x)
 # abstract interpretation and programsyntehsis are adjoints
 * 
