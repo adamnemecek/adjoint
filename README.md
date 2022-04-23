@@ -2,9 +2,13 @@
 <!--
 * [Fixed points in programming: datatypes and protocols](https://math.usask.ca/fvk/Cockett%20talk%20Saskatoon-2014.pdf)
 * [What is a good process semantics?](https://pages.cpsc.ucalgary.ca/~robin/talks/estonia.pdf)
+
+## cho spaces + fixed points
 * [Chu Spaces, Concept Lattices, and Domains](http://www.entcs.org/files/mfps19/83018.pdf)
 * [APPROXIMABLE CONCEPTS, CHU SPACES,
 AND INFORMATION SYSTEMS](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.387.6096&rep=rep1&type=pdf)
+* [](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.387.6096&rep=rep1&type=pdf)
+* [A mosaic of Chu spaces and Channel Theory I: Category-theoretic concepts and tools](https://chrisfieldsresearch.com/mosaic1-pre.pdfce)
 * operad is a norm
 
 * [On modeling and complete solutions to general fixpoint problems in multi-scale systems with applications](https://fixedpointtheoryandapplications.springeropen.com/articles/10.1186/s13663-018-0648-x)
