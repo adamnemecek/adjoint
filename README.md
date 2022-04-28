@@ -1,9 +1,16 @@
 # Adjointness, norm, and you...
 <!--
+##links to sort out
+* [space of interaction](https://arxiv.org/pdf/2104.13795.pdf)
+
+## linear logic + operator algebras
+* google search for "linear logic" fourier
+* girard "Moreover, if we remember that coding is based on the development by means of Fourier series (which involves the Hilbert space) everything that was done can be formulated in terms of operator algebras." (from advances in linear logic the first paper page 38)
+
 * [Fixed points in programming: datatypes and protocols](https://math.usask.ca/fvk/Cockett%20talk%20Saskatoon-2014.pdf)
 * [What is a good process semantics?](https://pages.cpsc.ucalgary.ca/~robin/talks/estonia.pdf)
 
-## cho spaces + fixed points
+## chu spaces + fixed points
 * [Chu Spaces, Concept Lattices, and Domains](http://www.entcs.org/files/mfps19/83018.pdf)
 * [APPROXIMABLE CONCEPTS, CHU SPACES,
 AND INFORMATION SYSTEMS](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.387.6096&rep=rep1&type=pdf)
@@ -18,7 +25,7 @@ AND INFORMATION SYSTEMS](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1
 # abstract interpretation and programsyntehsis are adjoints
 * 
 
-* lists are nilpotent
+* lists are nilpotent (you reach nil eventually)
 
 # all computable functions are continous 
  * https://cs.stackexchange.com/questions/80978/why-are-computable-functions-continuous
