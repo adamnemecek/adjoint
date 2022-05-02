@@ -1,5 +1,9 @@
 # Adjointness, norm, and you...
 <!--
+
+## constructivism 
+* [Constructivist Perspective on Physics](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.395.56&rep=rep1&type=pdf)
+
 ##links to sort out
 * [space of interaction](https://arxiv.org/pdf/2104.13795.pdf)
 
