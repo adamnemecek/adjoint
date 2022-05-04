@@ -1,5 +1,11 @@
 # Adjointness, norm, and you...
 <!--
+## spectral logic
+* From proof-nets to bordisms: the geometric meaning of multiplicative connectives
+* http://pi.math.cornell.edu/m/People/PhD/2005Aug/slavnov
+* what's up with the cones?
+ * coherence (technically — a conic subset of the tangent bundle)
+* https://news.ycombinator.com/item?id=31228934 mentions cones, what's up with that? are they just adjoints? normed cone
 
 ## constructivism 
 * [Constructivist Perspective on Physics](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.395.56&rep=rep1&type=pdf)
