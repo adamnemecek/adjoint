@@ -7,6 +7,20 @@
  * coherence (technically — a conic subset of the tangent bundle)
 * https://news.ycombinator.com/item?id=31228934 mentions cones, what's up with that? are they just adjoints? normed cone
 
+* [Towards a semantics for higher-order quantum computation](https://www.mscs.dal.ca/~selinger/papers/cones.pdf)
+
+* google spectral logic
+* i found a reversible logic synthesis book thing that has some czech people mention using quantum logic for generalization of probability
+ * Quantum logics as underlying structures of generalized probability theory
+* [Linear logic in normed cones: probabilistic coherence spaces and beyond](https://arxiv.org/abs/1803.06005)
+
+## what is linearity
+* when you lookup the standard definition of linearity you get this
+* Additivity: f(x + y) = f(x) + f(y).
+ * this is adjoint
+* Homogeneity of degree 1: f(αx) = α f(x) for all α.
+ * this is norm
+
 ## constructivism 
 * [Constructivist Perspective on Physics](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.395.56&rep=rep1&type=pdf)
 
