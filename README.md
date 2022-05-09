@@ -1,5 +1,9 @@
 # Adjointness, norm, and you...
 <!--
+## lagrangian & noether theorem
+* they are invariants
+
+
 ## paxos lattice
 ## paxos linearizable
 * [Linearizable Replicated State Machines with Lattice Agreement](https://arxiv.org/abs/1810.05871)
