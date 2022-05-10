@@ -3,6 +3,13 @@
 ## lagrangian & noether theorem
 * they are invariants
 
+## fiters
+* useful for defining continuity
+ * https://en.wikipedia.org/wiki/Filters_in_topology#Filters_and_prefilters
+ * dualideal
+ * https://en.wikipedia.org/wiki/Invariant_measure
+ * https://en.wikipedia.org/wiki/Invariant_(mathematics)
+
 
 ## paxos lattice
 ## paxos linearizable
