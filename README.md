@@ -1,13 +1,15 @@
 # Adjointness, norm, and you...
 <!--
 
+# determinant is  the volume of the parallepiped
+
 # jordan 
 * https://en.wikipedia.org/wiki/Jordan_normal_form
 
 [Least and Greatest Fixed Points in Linear Logic](https://arxiv.org/abs/0910.3383.pdf)
 
 ## lagrangian & noether theorem
-* they are invariants
+* they are invariantsjor
 
 ## fiters
 * useful for defining continuity
