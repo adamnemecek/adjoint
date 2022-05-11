@@ -1,6 +1,9 @@
 # Adjointness, norm, and you...
 <!--
 
+# jordan 
+* https://en.wikipedia.org/wiki/Jordan_normal_form
+
 [Least and Greatest Fixed Points in Linear Logic](https://arxiv.org/abs/0910.3383.pdf)
 
 ## lagrangian & noether theorem
