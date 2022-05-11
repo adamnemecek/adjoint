@@ -1,5 +1,8 @@
 # Adjointness, norm, and you...
 <!--
+
+[Least and Greatest Fixed Points in Linear Logic](https://arxiv.org/abs/0910.3383.pdf)
+
 ## lagrangian & noether theorem
 * they are invariants
 
