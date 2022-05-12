@@ -1,6 +1,8 @@
 # Adjointness, norm, and you...
 <!--
 
+# https://openproceedings.org/2008/conf/edbt/ZouCYL08.pdf
+
 # can you speed up type inference by using fourier?
 * [Cubical Type Theory](https://www.cse.chalmers.se/~coquand/face.pdf)
 
