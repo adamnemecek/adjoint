@@ -1,7 +1,14 @@
 # Adjointness, norm, and you...
 <!--
 
-# determinant is  the volume of the parallepiped
+# can you speed up type inference by using fourier?
+* [Cubical Type Theory](https://www.cse.chalmers.se/~coquand/face.pdf)
+
+* [Asymptotic spectra: Theory, applications and extensions](https://staff.fnwi.uva.nl/j.zuiddam/papers/convexity.pdf)
+# "type theory" factorization + spectrum
+
+
+# determinant is  the volume of the parallepiped (matrix inverse)
 
 # jordan 
 * https://en.wikipedia.org/wiki/Jordan_normal_form
