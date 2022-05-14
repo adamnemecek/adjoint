@@ -1,7 +1,12 @@
 # Adjointness, norm, and you...
 <!--
 
-# https://openproceedings.org/2008/conf/edbt/ZouCYL08.pdf
+# p*q*inv(p)
+* https://en.wikipedia.org/wiki/Conjugacy_class
+* https://en.wikipedia.org/wiki/Adjoint_representation
+* https://en.wikipedia.org/wiki/Spectral_theorem
+
+# [A Novel Spectral Coding in a Large Graph Database](https://openproceedings.org/2008/conf/edbt/ZouCYL08.pdf)
 
 # can you speed up type inference by using fourier?
 * [Cubical Type Theory](https://www.cse.chalmers.se/~coquand/face.pdf)
