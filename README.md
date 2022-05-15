@@ -1,6 +1,9 @@
 # Adjointness, norm, and you...
 <!--
 
+# chu spaces + spectrum / fixed point
+* https://link.springer.com/article/10.3103/S1055134409030055
+
 # p*q*inv(p)
 * https://en.wikipedia.org/wiki/Conjugacy_class
 * https://en.wikipedia.org/wiki/Adjoint_representation
