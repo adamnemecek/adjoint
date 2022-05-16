@@ -2,7 +2,7 @@
 <!--
 # 
 * [SOME GEOMETRIC PERSPECTIVES IN CONCURRENCY THEORY]()
-
+* https://en.wikipedia.org/wiki/Ultrafinitism
 
 # chu spaces + spectrum / fixed point
 * https://link.springer.com/article/10.3103/S1055134409030055
