@@ -2,6 +2,7 @@
 <!--
 * https://github.com/adamnemecek/ChuCalculator/
 * http://chu.stanford.edu/source/
+* full inverse is inv(x) = a' / (a' * a)
 
 # 
 * [SOME GEOMETRIC PERSPECTIVES IN CONCURRENCY THEORY]()
