@@ -1,5 +1,11 @@
 # Adjointness, norm, and you...
 <!--
+* https://twitter.com/deontologistics/status/1518329618813657088
+* [Factor graph](https://en.wikipedia.org/wiki/Factor_graph)
+ * is a tree? fixed point?
+ * https://en.wikipedia.org/wiki/Invariant_theory reynolds operator idempotent
+
+* https://en.wikipedia.org/wiki/Multiplexer
 * invariant theory + probability: https://www.maths.ox.ac.uk/node/35937
 
 * when i was studying probability, math, physics, cs I was always more interested in the things they had in common rather than the pecularities. I was trying to figure out what was the invariant of all these sciences. It should therefore come as no surprise that the invariant is in fact the idea of invariants.
