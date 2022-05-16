@@ -1,5 +1,8 @@
 # Adjointness, norm, and you...
 <!--
+* https://github.com/adamnemecek/ChuCalculator/
+* http://chu.stanford.edu/source/
+
 # 
 * [SOME GEOMETRIC PERSPECTIVES IN CONCURRENCY THEORY]()
 * https://en.wikipedia.org/wiki/Ultrafinitism
