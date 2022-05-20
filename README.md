@@ -1,5 +1,9 @@
 # Adjointness, norm, and you...
 <!--
+
+* differential geometry of interaction
+* [The Geometry of Interaction of Differential Interaction Nets](https://arxiv.org/pdf/0804.1435.pdf)
+
 * https://twitter.com/deontologistics/status/1518329618813657088
 * [Factor graph](https://en.wikipedia.org/wiki/Factor_graph)
  * is a tree? fixed point?
