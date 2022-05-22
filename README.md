@@ -1,5 +1,8 @@
 # Adjointness, norm, and you...
 <!--
+* von neumann patent for differential analyzer
+
+
 
 * differential geometry of interaction
 * [The Geometry of Interaction of Differential Interaction Nets](https://arxiv.org/pdf/0804.1435.pdf)
