@@ -1,5 +1,8 @@
 # Adjointness, norm, and you...
 <!--
+* dao of functional programming
+
+* geometry of syntax and semantics for directed file transformations
 * von neumann patent for differential analyzer
 
 
