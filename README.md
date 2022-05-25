@@ -1,5 +1,10 @@
 # Adjointness, norm, and you...
 <!--
+* [Geometry of Interaction and the Dynamics of Proof Reduction: a tutorial](https://cgi.luddy.indiana.edu/~ehaghver/Tutorial.pdf)
+
+* [Geometry of Interaction and linear combinatory algebras](https://www.researchgate.net/publication/220173613_Geometry_of_Interaction_and_Linear_Combinatory_Algebras)
+  We illustrate the construction on six standard examples, representing both “particle-style” as well as “wave-style”Geometry of Interaction
+ 
 * https://www.sciencedirect.com/topics/mathematics/embedding-theorem
 
 * [Geometrical semantics for linear logic (multiplicative fragment)](https://core.ac.uk/download/pdf/81144945.pdf)
