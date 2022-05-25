@@ -1,5 +1,11 @@
 # Adjointness, norm, and you...
 <!--
+* https://www.sciencedirect.com/topics/mathematics/embedding-theorem
+
+* [Geometrical semantics for linear logic (multiplicative fragment)](https://core.ac.uk/download/pdf/81144945.pdf)
+
+* https://core.ac.uk/download/pdf/81144945.pdf
+
 * dao of functional programming
 
 * geometry of syntax and semantics for directed file transformations
