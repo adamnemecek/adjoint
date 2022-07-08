@@ -1,5 +1,7 @@
 # Adjointness, norm, fixed point and you...
 <!--
+* [Pseudospectral optimal control](https://en.wikipedia.org/wiki/Pseudospectral_optimal_control)
+  * Moreover, their structure can be highly exploited to make them more computationally efficient, as ad-hoc scaling[21] and Jacobian computation methods, involving dual number theory[22] have been developed.
 * [Geometry of Interaction and the Dynamics of Proof Reduction: a tutorial](https://cgi.luddy.indiana.edu/~ehaghver/Tutorial.pdf)
 
 * [Geometry of Interaction and linear combinatory algebras](https://www.researchgate.net/publication/220173613_Geometry_of_Interaction_and_Linear_Combinatory_Algebras)
