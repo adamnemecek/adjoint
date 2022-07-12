@@ -1,5 +1,7 @@
 # Adjointness, norm, fixed point and you...
 <!--
+* [Bipolar theorem for quantum cones](https://link.springer.com/article/10.1007/s10688-012-0029-x)
+ * In this note duality properties of quantum cones are investigated. We propose a bipolar theorem for quantum cones, which provides a new proof of the operator bipolar theorem proved by Effros and Webster. In particular, a representation theorem for a quantum cone is proved.
 * [Pseudospectral optimal control](https://en.wikipedia.org/wiki/Pseudospectral_optimal_control)
   * Moreover, their structure can be highly exploited to make them more computationally efficient, as ad-hoc scaling[21] and Jacobian computation methods, involving dual number theory[22] have been developed.
 * [Geometry of Interaction and the Dynamics of Proof Reduction: a tutorial](https://cgi.luddy.indiana.edu/~ehaghver/Tutorial.pdf)
