@@ -1,5 +1,6 @@
 # Adjointness, norm, fixed point and you...
 <!--
+* [Concurrent Separation Logic Meets Template Games](https://arxiv.org/pdf/2005.04453)
 * [Bipolar theorem for quantum cones](https://link.springer.com/article/10.1007/s10688-012-0029-x)
  * In this note duality properties of quantum cones are investigated. We propose a bipolar theorem for quantum cones, which provides a new proof of the operator bipolar theorem proved by Effros and Webster. In particular, a representation theorem for a quantum cone is proved.
 * [Pseudospectral optimal control](https://en.wikipedia.org/wiki/Pseudospectral_optimal_control)
