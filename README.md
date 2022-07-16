@@ -1,5 +1,6 @@
 # Adjointness, norm, fixed point and you...
 <!--
+* [Towards a Theory of Programming Languages](https://group-mmm.org/~eberhart/research/report_m2.pdf)
 * [Adjoint Reactive GUI Programming](https://arxiv.org/pdf/2010.12338.pdf)
 * [Jordan curve theorem](https://en.wikipedia.org/wiki/Jordan_curve_theorem#Discrete_version)
   * The Jordan curve theorem can be proved from the Brouwer fixed point theorem (in 2 dimensions),[1] and the Brouwer fixed point theorem can be proved from the Hex theorem: "every game of Hex has at least one winner", from which we obtain a logical implication: Hex theorem implies Brouwer fixed point theorem, which implies Jordan curve theorem.[2]
