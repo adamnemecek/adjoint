@@ -1,5 +1,8 @@
 # Adjointness, norm, fixed point and you...
 <!--
+* [Nonlinear Dynamics and Chaos](https://www.amazon.com/Nonlinear-Dynamics-Student-Solutions-Manual/dp/0813349109/ref=pd_lpo_1?pd_rd_i=0813349109&psc=1)
+ * bifucation (stepanov too)
+ * 
 * [A structural approach to reversible computation](https://arxiv.org/abs/1111.7154#:~:text=Samson%20Abramsky,progresses%20towards%20its%20physical%20limits.)
 * [Towards a Theory of Programming Languages](https://group-mmm.org/~eberhart/research/report_m2.pdf)
 * [Adjoint Reactive GUI Programming](https://arxiv.org/pdf/2010.12338.pdf)
