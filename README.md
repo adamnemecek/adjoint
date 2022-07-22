@@ -1,5 +1,13 @@
 # Adjointness, norm, fixed point and you...
 <!--
+* realizability on ncatlab
+ * andrej bauers phd thesis talksa bout fixed point newton method
+  http://math.andrej.com/wp-content/uploads/2006/04/thesis.pdf
+  * One possible way to find a computational interpretation for univalence in homotopy type theory is to interpret it in using realizability. Stekelburg provides a univalent universe of modest Kan complexes.
+  * samson abramsky talks about this too
+  * kantian synthetic vs analytical 
+* https://hal.inria.fr/hal-02548315/document
+
 * [fourier mind](https://en.wikipedia.org/wiki/Holonomic_brain_theory#:~:text=Holonomic%20brain%20theory%2C%20also%20known,in%20or%20between%20brain%20cells.)
 * [The phrasal lexicon](https://aclanthology.org/T75-2013.pdf)
 * [Fixed point index](https://en.wikipedia.org/wiki/Fixed-point_index)
