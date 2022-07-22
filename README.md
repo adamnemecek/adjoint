@@ -1,5 +1,6 @@
 # Adjointness, norm, fixed point and you...
 <!--
+* [fourier mind](https://en.wikipedia.org/wiki/Holonomic_brain_theory#:~:text=Holonomic%20brain%20theory%2C%20also%20known,in%20or%20between%20brain%20cells.)
 * [The phrasal lexicon](https://aclanthology.org/T75-2013.pdf)
 * [Fixed point index](https://en.wikipedia.org/wiki/Fixed-point_index)
 * [Nonlinear Dynamics and Chaos](https://www.amazon.com/Nonlinear-Dynamics-Student-Solutions-Manual/dp/0813349109/ref=pd_lpo_1?pd_rd_i=0813349109&psc=1)
