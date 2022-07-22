@@ -1,5 +1,8 @@
 # Adjointness, norm, fixed point and you...
 <!--
+* adjoint method
+* coinductive calculus
+  * https://news.ycombinator.com/item?id=32191372
 * realizability on ncatlab
  * andrej bauers phd thesis talksa bout fixed point newton method
   http://math.andrej.com/wp-content/uploads/2006/04/thesis.pdf
