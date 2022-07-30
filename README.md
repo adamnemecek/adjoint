@@ -1,6 +1,9 @@
 # Adjointness, norm, fixed point and you...
 <!--
-* 
+* why hypergraphs https://news.ycombinator.com/item?id=32283022
+ * talks about unifying things
+* is the kalman fiter just a low pass filter https://news.ycombinator.com/item?id=32271351
+* [A Unifying Review of Linear Gaussian Models", by Sam Roweis and Zoubin Ghahramani.](https://news.ycombinator.com/item?id=32271693)
 * adjoint method
 * coinductive calculus
   * https://news.ycombinator.com/item?id=32191372
