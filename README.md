@@ -1,5 +1,7 @@
 # Adjointness, norm, fixed point and you...
 <!--
+* https://graphicallinearalgebra.net/
+ * colored graph nodes are orthogonal
 * why hypergraphs https://news.ycombinator.com/item?id=32283022
  * talks about unifying things
 * is the kalman fiter just a low pass filter https://news.ycombinator.com/item?id=32271351
