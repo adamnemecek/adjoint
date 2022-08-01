@@ -1,5 +1,10 @@
 # Adjointness, norm, fixed point and you...
 <!--
+* [Induction, Coinduction, and Fixed Points:
+Intuitions and Tutorial](https://arxiv.org/pdf/1903.05127.pdf)
+  * talks about fixed points in other papers
+* covariant, cotangent
+* spectral theorem book 
 * https://graphicallinearalgebra.net/
  * colored graph nodes are orthogonal
 * why hypergraphs https://news.ycombinator.com/item?id=32283022
