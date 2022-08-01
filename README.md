@@ -4,6 +4,13 @@
 Intuitions and Tutorial](https://arxiv.org/pdf/1903.05127.pdf)
   * talks about fixed points in other papers
 * covariant, cotangent
+* cocycle, coboundary https://ncatlab.org/nlab/show/coboundary
+* "closed monoidal category" cotangent
+* Discrete-Time Machines in Closed Monoidal Categories.
+* "Kalman has published several works on realization, controlability, and observability"
+(see [14] and [15]) 
+
+  * https://ncatlab.org/nlab/show/coboundary
 * spectral theorem book 
 * https://graphicallinearalgebra.net/
  * colored graph nodes are orthogonal
