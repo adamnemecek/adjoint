@@ -1,5 +1,13 @@
 # Adjointness, norm, fixed point and you...
 <!--
+* scale invariance is a big thing in quantum mechanics
+  * can you make neural networks scale invariant?
+* find "noga alon" p == np paper
+  * this maybe? https://www.cs.tau.ac.il/~nogaa/PDFS/spectalg.pdf
+* bisimuation + coinduction
+
+* groupoid + closed monoidal category
+  
 * [Induction, Coinduction, and Fixed Points:
 Intuitions and Tutorial](https://arxiv.org/pdf/1903.05127.pdf)
   * talks about fixed points in other papers
