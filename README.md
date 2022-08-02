@@ -1,5 +1,7 @@
 # Adjointness, norm, fixed point and you...
 <!--
+* Epicycles worked very well and were highly accurate, because, as Fourier analysis later showed, any smooth curve can be approximated to arbitrary accuracy with a sufficient number of epicycles.
+  * https://en.wikipedia.org/wiki/Deferent_and_epicycle
 * scale invariance is a big thing in quantum mechanics
   * can you make neural networks scale invariant?
 * find "noga alon" p == np paper
@@ -7,7 +9,7 @@
 * bisimuation + coinduction
 
 * groupoid + closed monoidal category
-  
+
 * [Induction, Coinduction, and Fixed Points:
 Intuitions and Tutorial](https://arxiv.org/pdf/1903.05127.pdf)
   * talks about fixed points in other papers
