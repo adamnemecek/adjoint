@@ -1,10 +1,15 @@
 # Adjointness, norm, fixed point and you...
 <!--
+* "dual numbers" cotangent
+
+* robotics learning physics
+  * https://news.ycombinator.com/item?id=32329783
+
 * Epicycles worked very well and were highly accurate, because, as Fourier analysis later showed, any smooth curve can be approximated to arbitrary accuracy with a sufficient number of epicycles.
   * https://en.wikipedia.org/wiki/Deferent_and_epicycle
 * scale invariance is a big thing in quantum mechanics
   * can you make neural networks scale invariant?
-* find "noga alon" p == np paper
+* find "noga alon" p == np paper, p==np
   * this maybe? https://www.cs.tau.ac.il/~nogaa/PDFS/spectalg.pdf
 * bisimuation + coinduction
 
