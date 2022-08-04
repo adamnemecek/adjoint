@@ -1,5 +1,13 @@
 # Adjointness, norm, fixed point and you...
 <!--
+* https://en.wikipedia.org/wiki/Whitney_embedding_theorem
+  * the curve has intersections (i.e.)
+* "whitney embedding theorem" "fixed point"
+  * https://valentermz.github.io/documents/slides/fixed_point_theorems-handout.pdf
+* [taken's embedding theorem]()
+* [Discovering State Variables Hidden in Experimental Data](https://arxiv.org/abs/2112.10755)
+* https://www.dpmms.cam.ac.uk/~wz302/randDoc/tangent.pdf
+
 * "dual numbers" cotangent
 
 * robotics learning physics
