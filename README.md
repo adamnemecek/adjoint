@@ -1,5 +1,12 @@
 # Adjointness, norm, fixed point and you...
 <!--
+* [A Prehistory of n-Categorical Physics](https://math.ucr.edu/home/baez/history.pdf)
+  * But in our universe, is also possible for physical systems to undergo a special sort of process where they ‘switch places’:
+  * this switching places: check out whitney embedding
+
+* [Generalizing Topology via Chu Spaces](https://arxiv.org/abs/1101.2999)
+
+* cobordism + thom spectra
 * https://en.wikipedia.org/wiki/Whitney_embedding_theorem
   * the curve has intersections (i.e.)
 * "whitney embedding theorem" "fixed point"
