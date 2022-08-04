@@ -1,5 +1,14 @@
 # Adjointness, norm, fixed point and you...
 <!--
+* cobordism hypothesis
+  * Yes. The physical motivation is that topological field theories, as examples of quantum field theories, should be fully local, meaning that one should be able to calculate any information about a (fully extended) TQFT 𝑍 on a manifold 𝑀 by cutting 𝑀 into pieces, formulating 𝑍 on these pieces, and gluing. The takeaway in physics is that in any class of systems thought to be described by topological field theories, one should be able to determine the TQFT for a particular system from how the system behaves on a neighborhood of a point.
+  * https://mathoverflow.net/questions/309093/physical-consequences-of-cobordism-hypothesis
+* linearizability
+  * this is the same as trace theory, trace theory has the
+  * https://en.wikipedia.org/wiki/Linearizability
+    * check the list of
+  * spectrum == history
+
 * [A Prehistory of n-Categorical Physics](https://math.ucr.edu/home/baez/history.pdf)
   * But in our universe, is also possible for physical systems to undergo a special sort of process where they ‘switch places’:
   * this switching places: check out whitney embedding
