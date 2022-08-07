@@ -1,5 +1,34 @@
 # Adjointness, norm, fixed point and you...
 <!--
+
+# category theory
+* the nice thing about category theory is that theoreically
+
+# reversible computation
+* https://en.wikipedia.org/wiki/Cotangent_space
+
+  * given a state at time T, the adjoint is the tangent space, the set of possible spaces that we can reach when we combine if with an event (event space duality) (redo)
+  * cotangent space is the space of the spaces coming into the current state (undo)
+  * "The tangent space and the cotangent space at a point are both real vector spaces of the same dimension and therefore isomorphic to each other via many possible isomorphisms. The introduction of a Riemannian metric or a symplectic form gives rise to a natural isomorphism between the tangent space and the cotangent space at a point, associating to any tangent covector a canonical tangent vector."
+
+* fixed point
+# perception
+* mind imposes a linear structure on periodic phenomena (find the paper that says this)
+* joy of visual perception
+* 
+
+* godel escher bach talks about braiding
+* he is right about
+
+* In those days, by a “mathematicus,” or “Sternseher,” was understood a man that earned his living by making astrological predictions.
+* bifuraction + "fixed point"
+
+* [predictive coding + autodiff](https://arxiv.org/abs/2106.13082)
+
+* subspace is a subgroup
+  * one can think of inference as rebuilding a space from it's subspaces
+* [Dimensionality Reduction with Subspace Structure Preservation](https://arxiv.org/abs/1412.2404)
+* [A Subspace-based Approach for Dimensionality Reduction and Important Variable Selection](https://arxiv.org/abs/2106.01584)
 * cobordism hypothesis
   * Yes. The physical motivation is that topological field theories, as examples of quantum field theories, should be fully local, meaning that one should be able to calculate any information about a (fully extended) TQFT 𝑍 on a manifold 𝑀 by cutting 𝑀 into pieces, formulating 𝑍 on these pieces, and gluing. The takeaway in physics is that in any class of systems thought to be described by topological field theories, one should be able to determine the TQFT for a particular system from how the system behaves on a neighborhood of a point.
   * https://mathoverflow.net/questions/309093/physical-consequences-of-cobordism-hypothesis
@@ -8,6 +37,7 @@
   * https://en.wikipedia.org/wiki/Linearizability
     * check the list of
   * spectrum == history
+  *
 
 * [A Prehistory of n-Categorical Physics](https://math.ucr.edu/home/baez/history.pdf)
   * But in our universe, is also possible for physical systems to undergo a special sort of process where they ‘switch places’:
@@ -47,10 +77,10 @@ Intuitions and Tutorial](https://arxiv.org/pdf/1903.05127.pdf)
 * "closed monoidal category" cotangent
 * Discrete-Time Machines in Closed Monoidal Categories.
 * "Kalman has published several works on realization, controlability, and observability"
-(see [14] and [15]) 
+(see [14] and [15])
 
   * https://ncatlab.org/nlab/show/coboundary
-* spectral theorem book 
+* spectral theorem book
 * https://graphicallinearalgebra.net/
  * colored graph nodes are orthogonal
 * why hypergraphs https://news.ycombinator.com/item?id=32283022
@@ -65,7 +95,7 @@ Intuitions and Tutorial](https://arxiv.org/pdf/1903.05127.pdf)
   http://math.andrej.com/wp-content/uploads/2006/04/thesis.pdf
   * One possible way to find a computational interpretation for univalence in homotopy type theory is to interpret it in using realizability. Stekelburg provides a univalent universe of modest Kan complexes.
   * samson abramsky talks about this too
-  * kantian synthetic vs analytical 
+  * kantian synthetic vs analytical
 * https://hal.inria.fr/hal-02548315/document
 
 * [fourier mind](https://en.wikipedia.org/wiki/Holonomic_brain_theory#:~:text=Holonomic%20brain%20theory%2C%20also%20known,in%20or%20between%20brain%20cells.)
@@ -76,7 +106,7 @@ Intuitions and Tutorial](https://arxiv.org/pdf/1903.05127.pdf)
 * [Fixed point index](https://en.wikipedia.org/wiki/Fixed-point_index)
 * [Nonlinear Dynamics and Chaos](https://www.amazon.com/Nonlinear-Dynamics-Student-Solutions-Manual/dp/0813349109/ref=pd_lpo_1?pd_rd_i=0813349109&psc=1)
  * bifucation (stepanov too)
- * 
+ *
 * [A structural approach to reversible computation](https://arxiv.org/abs/1111.7154#:~:text=Samson%20Abramsky,progresses%20towards%20its%20physical%20limits.)
 * [Towards a Theory of Programming Languages](https://group-mmm.org/~eberhart/research/report_m2.pdf)
 * [Adjoint Reactive GUI Programming](https://arxiv.org/pdf/2010.12338.pdf)
@@ -91,7 +121,7 @@ Intuitions and Tutorial](https://arxiv.org/pdf/1903.05127.pdf)
 
 * [Geometry of Interaction and linear combinatory algebras](https://www.researchgate.net/publication/220173613_Geometry_of_Interaction_and_Linear_Combinatory_Algebras)
   We illustrate the construction on six standard examples, representing both “particle-style” as well as “wave-style”Geometry of Interaction
- 
+
 * https://www.sciencedirect.com/topics/mathematics/embedding-theorem
 
 * [Geometrical semantics for linear logic (multiplicative fragment)](https://core.ac.uk/download/pdf/81144945.pdf)
@@ -122,7 +152,7 @@ Intuitions and Tutorial](https://arxiv.org/pdf/1903.05127.pdf)
 * http://chu.stanford.edu/source/
 * full inverse is inv(x) = a' / (a' * a)
 
-# 
+#
 * [SOME GEOMETRIC PERSPECTIVES IN CONCURRENCY THEORY]()
 * https://en.wikipedia.org/wiki/Ultrafinitism
 
@@ -145,7 +175,7 @@ Intuitions and Tutorial](https://arxiv.org/pdf/1903.05127.pdf)
 
 # determinant is  the volume of the parallepiped (matrix inverse)
 
-# jordan 
+# jordan
 * https://en.wikipedia.org/wiki/Jordan_normal_form
 
 [Least and Greatest Fixed Points in Linear Logic](https://arxiv.org/abs/0910.3383.pdf)
@@ -169,7 +199,7 @@ Intuitions and Tutorial](https://arxiv.org/pdf/1903.05127.pdf)
 
 
 ## path "fixed point"
-* [Solving Fixed-Point Problems with Inequality and Equality Constraints via a Non-Interior Point Homotopy Path-Following Method](https://www.hindawi.com/journals/mpe/2017/3456834/)8 
+* [Solving Fixed-Point Problems with Inequality and Equality Constraints via a Non-Interior Point Homotopy Path-Following Method](https://www.hindawi.com/journals/mpe/2017/3456834/)8
  * " In this paper, we provide a constructive proof of the general Brouwer fixed-point theorem and then obtain the existence of a smooth path which connects a given point to the fixed point."
 
 * [A walk over the shortest path: Dijkstra’s Algorithm viewed as fixed-point computation](https://www.cs.utexas.edu/users/misra/psp.dir/WalkShortestPath.pdf)
@@ -197,7 +227,7 @@ Intuitions and Tutorial](https://arxiv.org/pdf/1903.05127.pdf)
 * Homogeneity of degree 1: f(αx) = α f(x) for all α.
  * this is norm
 
-## constructivism 
+## constructivism
 * [Constructivist Perspective on Physics](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.395.56&rep=rep1&type=pdf)
 
 ##links to sort out
@@ -223,11 +253,11 @@ AND INFORMATION SYSTEMS](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1
 
 * [On modeling and complete solutions to general fixpoint problems in multi-scale systems with applications](https://fixedpointtheoryandapplications.springeropen.com/articles/10.1186/s13663-018-0648-x)
 # abstract interpretation and programsyntehsis are adjoints
-* 
+*
 
 * lists are nilpotent (you reach nil eventually)
 
-# all computable functions are continous 
+# all computable functions are continous
  * https://cs.stackexchange.com/questions/80978/why-are-computable-functions-continuous
  * https://wikimpri.dptinfo.ens-cachan.fr/lib/exe/fetch.php?media=cours:upload:cours-2021-mpri-partie-i-goodmpri.pdf
 * [Sometimes all functions are continuous](http://math.andrej.com/2006/03/27/sometimes-all-functions-are-continuous/#:~:text=A%20function%20is%20computably%20continuous,of%20are%20needed%20to%20determine%20.)
@@ -257,9 +287,9 @@ AND INFORMATION SYSTEMS](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1
 # non-commutative linear logic
 * [On noncommutative extensions of linear logic](https://arxiv.org/pdf/1703.10092.pdf)
 
-# reciprocal lattice 
+# reciprocal lattice
  * https://en.wikipedia.org/wiki/Reciprocal_lattice
- * In physics, the reciprocal lattice represents the Fourier transform of another lattice 
+ * In physics, the reciprocal lattice represents the Fourier transform of another lattice
 
 # operator algebra
  * https://www.google.com/books/edition/Advances_in_Linear_Logic/ROEf2h5FvD4C?hl=en&gbpv=1&dq=%22operator+algebra%22+logic&pg=PA38&printsec=frontcover mentions operator algebras
@@ -285,7 +315,7 @@ AND INFORMATION SYSTEMS](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1
 * https://en.wikipedia.org/wiki/Circulant_matrix
  * In numerical analysis, circulant matrices are important because they are diagonalized by a discrete Fourier transform, and hence linear equations that contain them may be quickly solved using a fast Fourier transform.[1] They can be interpreted analytically as the integral kernel of a convolution operator on the cyclic group {\displaystyle C_{n}}C_{n} and hence frequently appear in formal descriptions of spatially invariant linear operations.
 
-fourier number multiplication 
+fourier number multiplication
 * https://math.stackexchange.com/questions/27444/integer-multiplication-using-fft
 
 * [A Generic Logic for Proving Linearizability](https://artkhyzha.github.io/papers/fm16-extended.pdf)
@@ -295,9 +325,9 @@ fourier number multiplication
 [duality of state and observations](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.123.7075&rep=rep1&type=pdf)
 [Parallel algorithms for finding common fixed points of paracontractions](https://www.researchgate.net/publication/233110331_Parallel_algorithms_for_finding_common_fixed_points_of_paracontractions)
 
-* proof net & string diagram 
+* proof net & string diagram
  * [Proof Diagrams for Multiplicative Linear Logic](https://arxiv.org/pdf/1606.09016.pdf)
- * 
+ *
 
 ## fixed point
 * Fixed points are everywhere
@@ -316,7 +346,7 @@ fourier number multiplication
 https://bartoszmilewski.com/2019/11/06/fixed-points-and-diagonal-arguments/
 
 * https://en.wikipedia.org/wiki/Fixed_point_(mathematics)
- * 
+ *
 
 * given a map, you can decompose it to a nilpotent and a invertible part https://web.evanchen.cc/notes/Harvard-55a.pdf (page 30)
 
@@ -327,7 +357,7 @@ product of unions = sum of products (third kolmogorov axiom) really means that y
 
 ## fixed point
 * http://nlab-pages.s3.us-east-2.amazonaws.com/nlab/show/Lawvere's+fixed+point+theorem
-* In ‘Diagonal arguments and Cartesian closed categories’ (Lawvere 69) we demystified the incompleteness theorem of Gödel and the truth-definition theory of Tarski by showing that both are consequences of some very simple algebra in the Cartesian-closed setting. 
+* In ‘Diagonal arguments and Cartesian closed categories’ (Lawvere 69) we demystified the incompleteness theorem of Gödel and the truth-definition theory of Tarski by showing that both are consequences of some very simple algebra in the Cartesian-closed setting.
 * http://emis.matem.unam.mx/journals/TAC/reprints/articles/15/tr15.pdf
 
 * "geometry of interaction" "fixed point"
@@ -349,7 +379,7 @@ What is adjointness? Depends on the context.
 
 [This page](http://www.reproducibility.org/RSF/book/bei/conj/paper_html/index.html) is illuminating.
 
-I like this definition: 
+I like this definition:
 > "adjoint operator ... back-projects information from data to the underlying model."
 
 Essentially, it carries information about possible states at a point in time so that we can go back and forth. This allows you do optimizations that are otherwise not possible.
@@ -358,13 +388,13 @@ One can also see it as the _adversarial relationship_ between two things. This r
 
 _Adjointness expresses a condition that allows for inference, causality, and optimization_. If the adjoint condition is met, information from one dimension can be used to make predictions about another dimension.
 
-Nilpotence is another way of viewing adjointness. 
+Nilpotence is another way of viewing adjointness.
 
 ## Inverse
 Adjointness is only a part of the story. One often sees equations of the following form `inverse(x) = adjoint(x)/norm(x)`. Once you have `adjoint` and `norm`, you magically get `inverse`.
 
 ## Norm
-Norm essentially allows you do a 1-on-1 comparisons. Yes, database normalization falls in this category. Another way of looking at this is that by dividing by norm, you get some in some sense _canonical form_ of the object in question. What is a canonical form? Computation. 
+Norm essentially allows you do a 1-on-1 comparisons. Yes, database normalization falls in this category. Another way of looking at this is that by dividing by norm, you get some in some sense _canonical form_ of the object in question. What is a canonical form? Computation.
 
 > Systems of formal logic, such as type theory, try to transform expressions into a canonical form which then serves as the end result of the given computation or deduction.
 
@@ -439,8 +469,8 @@ Vladimir Vovk has developed theory of probability that can be easily recast in t
 Roughtly, translated [Kolmogorov's 3 axioms](https://en.wikipedia.org/wiki/Probability_axioms) can be read as follows:
 1.) norm
 2.) unitarity
-3.) adjointness (notice how we turn the inside product into the outside sum) 
- 
+3.) adjointness (notice how we turn the inside product into the outside sum)
+
 
 ## Potential applications
 I've been thinking about a new representation of polynomials. Instead of using zeros, one would use a sequence of dual numbers that capture the minima and maxima of the polynomial. Theoretically, one could then evaluate polynomials by some smooth interpolation between two neighbouring points. Dual numbers allow you to capture the curvature at point naturally so it would make sense that this should be possible.
