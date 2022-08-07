@@ -2,7 +2,12 @@
 <!--
 
 # category theory
-* the nice thing about category theory is that theoreically
+* the nice thing about category theory is that theoretically unlike with normal functions, when you have say `F=m*a` with imperative programming, you have to write three functions
+to figure out each of the variables, with category theory you can ideally just write a single category and the rest will be done automatically
+*
+
+# computation as manifold
+*
 
 # reversible computation
 * https://en.wikipedia.org/wiki/Cotangent_space
@@ -15,7 +20,7 @@
 # perception
 * mind imposes a linear structure on periodic phenomena (find the paper that says this)
 * joy of visual perception
-* 
+*
 
 * godel escher bach talks about braiding
 * he is right about
