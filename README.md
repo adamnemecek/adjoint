@@ -1,13 +1,18 @@
 # Adjointness, norm, fixed point and you...
 <!--
 
+
+
 # category theory
 * the nice thing about category theory is that theoretically unlike with normal functions, when you have say `F=m*a` with imperative programming, you have to write three functions
 to figure out each of the variables, with category theory you can ideally just write a single category and the rest will be done automatically
 *
 
 # computation as manifold
-*
+* you can think
+* ike and mike talk about this
+
+
 
 # reversible computation
 * https://en.wikipedia.org/wiki/Cotangent_space
@@ -494,6 +499,27 @@ I've been thinking about a new representation of polynomials. Instead of using z
 * https://math.stackexchange.com/questions/25126/is-it-possible-to-link-the-eigenvalues-of-a-matrix-to-the-fourier-transform-of-t
 * https://en.wikipedia.org/wiki/Parseval%27s_theorem for unitary
 * https://towardsdatascience.com/deriving-convolution-from-first-principles-4ff124888028
+
+
+ #[inline]
+  pub fn slerp(self, other: Self, t: N) -> Self {
+      (other * self.conjugate()).pow(t) * self
+  }
+
+f(x) = x^2
+f'(x) = 2x
+
+f(2 + eps) = (2 + eps)^2 = 4 + 4 eps
+f(3 + eps) = (3 + eps)^2 = 9 + 6 eps
+f(4 + eps) = (4 + eps)^2 = 16 + 8 eps
+
+let a = (x: 0, y: 0, y': 0, y'': 2)
+let b = (x: 4, y: 16, y': 8, y'': 2)
+
+let expected = (x: 2, y: 4, y': 4, y'': 4)
+
+slerp(a, b, 0.5) = (x: 2)
+
 -->
 
 
