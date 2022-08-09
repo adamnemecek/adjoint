@@ -1,7 +1,8 @@
 # Adjointness, norm, fixed point and you...
 <!--
 
-
+* https://en.wikipedia.org/wiki/Circulant_matrix
+* "In numerical analysis, circulant matrices are important because they are diagonalized by a discrete Fourier transform, and hence linear equations that contain them may be quickly solved using a fast Fourier transform.[1] They can be interpreted analytically as the integral kernel of a convolution operator on the cyclic group {\displaystyle C_{n}}C_{n} and hence frequently appear in formal descriptions of spatially invariant linear operations."
 
 # category theory
 * the nice thing about category theory is that theoretically unlike with normal functions, when you have say `F=m*a` with imperative programming, you have to write three functions
@@ -9,7 +10,7 @@ to figure out each of the variables, with category theory you can ideally just w
 *
 
 # computation as manifold
-* you can think
+* you can think or a program as
 * ike and mike talk about this
 
 
@@ -500,25 +501,6 @@ I've been thinking about a new representation of polynomials. Instead of using z
 * https://en.wikipedia.org/wiki/Parseval%27s_theorem for unitary
 * https://towardsdatascience.com/deriving-convolution-from-first-principles-4ff124888028
 
-
- #[inline]
-  pub fn slerp(self, other: Self, t: N) -> Self {
-      (other * self.conjugate()).pow(t) * self
-  }
-
-f(x) = x^2
-f'(x) = 2x
-
-f(2 + eps) = (2 + eps)^2 = 4 + 4 eps
-f(3 + eps) = (3 + eps)^2 = 9 + 6 eps
-f(4 + eps) = (4 + eps)^2 = 16 + 8 eps
-
-let a = (x: 0, y: 0, y': 0, y'': 2)
-let b = (x: 4, y: 16, y': 8, y'': 2)
-
-let expected = (x: 2, y: 4, y': 4, y'': 4)
-
-slerp(a, b, 0.5) = (x: 2)
 
 -->
 
