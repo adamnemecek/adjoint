@@ -1,5 +1,37 @@
 # Adjointness, norm, fixed point and you...
 <!--
+* is there a better fourier that lets you calculate matrix inverse using said fourier?
+  * for a circulant matrix, one can use the fft of a row to calculate the inverse
+  * is there a transform that
+  * the inverse of a diagonal matrix
+  * inv(x::Circulant) = fft(row)
+* https://terrytao.wordpress.com/tag/pontryagin-duality/
+  * note how at the end there's |x|^2
+  *
+  ```julia
+  function inv(x::Matrix)
+
+  end
+  ```
+
+* what is the relationship between nipotence and orthogonality
+  * are dual numbers self orthogonal?
+
+* fourier relies on nilpotence
+  * https://en.wikipedia.org/wiki/Pontryagin_duality#Fourier_transform_and_Fourier_inversion_formula_for_L1-functions
+  * https://en.wikipedia.org/wiki/Riemann%E2%80%93Lebesgue_lemma
+  * "Note the Fourier transform depends on the choice of Haar measure. It is not too difficult to show that the Fourier transform of an {\displaystyle L^{1}}L^{1} function on {\displaystyle G}G is a bounded continuous function on {\displaystyle {\widehat {G}}}\widehat{G} which vanishes at infinity."
+
+* is the
+
+* nilpotence == projectivity https://arxiv.org/pdf/1406.3455.pdf
+
+## fourier analysis is a special case of representation theory
+* https://mathoverflow.net/questions/37021/is-fourier-analysis-a-special-case-of-representation-theory-or-an-analogue
+* http://www.math.uchicago.edu/~may/VIGRE/VIGRE2009/REUPapers/Patel.pdf
+
+* can we get an inverse matrix using a fourier?
+  * yes for circulant matrices
 
 * https://en.wikipedia.org/wiki/Circulant_matrix
 * "In numerical analysis, circulant matrices are important because they are diagonalized by a discrete Fourier transform, and hence linear equations that contain them may be quickly solved using a fast Fourier transform.[1] They can be interpreted analytically as the integral kernel of a convolution operator on the cyclic group {\displaystyle C_{n}}C_{n} and hence frequently appear in formal descriptions of spatially invariant linear operations."
@@ -194,10 +226,10 @@ Intuitions and Tutorial](https://arxiv.org/pdf/1903.05127.pdf)
 ## lagrangian & noether theorem
 * they are invariantsjor
 
-## fiters
+## filters
 * useful for defining continuity
  * https://en.wikipedia.org/wiki/Filters_in_topology#Filters_and_prefilters
- * dualideal
+ * dual ideal
  * https://en.wikipedia.org/wiki/Invariant_measure
  * https://en.wikipedia.org/wiki/Invariant_(mathematics)
 
