@@ -1,5 +1,30 @@
 # Adjointness, norm, fixed point and you...
 <!--
+* https://research.utwente.nl/en/publications/functional-programming-with-bananas-lenses-envelopes-and-barbed-w
+* [how is a graph like a manifold](https://arxiv.org/pdf/math/0206103.pdf)
+* http://web.archive.org/web/20160316230842/http://comonad.com/reader/2009/recursion-schemes/
+* cohomology computation
+* tangent bundle is the adjoint of sorts
+* turning a line into a circle/group with an exponent
+* `exp(x) = cos(x) * i*sin(x)`
+
+* https://en.wikipedia.org/wiki/Traced_monoidal_category
+  * (As shown later [12], the dynamical part of the Geometry of Interaction system was implemented using precisely the same tools required to model reversible (space-bounded) Turing machines).
+* "traced monoidal categories" "geometry of interaction"
+* "geometry of interaction" tangent
+* mathematical structure of stable physical systems
+* Proof-nets and the Hilbert space
+* "abstract interpretation" "linear logic"
+* cotangent = pullbacks
+* functional programming in sublinear space
+
+* https://plato.stanford.edu/entries/logic-linear/#hyland00ic
+
+* extensional intensional = value vs reference
+* moral proofs
+* linear (affine) logic is decidable and therefore rice's theorem does not apply
+  * from plato.stanford.edu
+
 * is there a better fourier that lets you calculate matrix inverse using said fourier?
   * for a circulant matrix, one can use the fft of a row to calculate the inverse
   * is there a transform that
