@@ -1,12 +1,31 @@
 # Adjointness, norm, fixed point and you...
 <!--
+* [triangular matrix](https://en.wikipedia.org/wiki/Triangular_matrix#Forward_substitution)
+  * A matrix equation in the form {\displaystyle L\mathbf {x} =\mathbf {b} }{\displaystyle L\mathbf {x} =\mathbf {b} } or {\displaystyle U\mathbf {x} =\mathbf {b} }{\displaystyle U\mathbf {x} =\mathbf {b} } is very easy to solve by an iterative process called forward substitution for lower triangular matrices and analogously back substitution for upper triangular matrices. The process is so called because for lower triangular matrices, one first computes {\displaystyle x_{1}}x_{1}, then substitutes that forward into the next equation to solve for {\displaystyle x_{2}}x_{2}, and repeats through to {\displaystyle x_{n}}x_{n}. In an upper triangular matrix, one works backwards, first computing {\displaystyle x_{n}}x_{n}, then substituting that back into the previous equation to solve for {\displaystyle x_{n-1}}x_{n-1}, and repeating through {\displaystyle x_{1}}x_{1}.
+* are dual numbers and orthogonality are kind of the same
+orthogonal means 
+  * `M * transpose(M) = I`
+  * `M * 
+
+
+* range is a manifold
+  * the center of the a range is the fixed point eigenvalue since it's scale invariant
+  * actually maybe not
+
+* coevent
+  * [Quantum measures and the coevent interpretation](~grab25)
+* https://arxiv.org/pdf/math/0206103.pdf
+* cotangent causality (grab35.png)
+* why is a specturm important? it allows you to figure out the inverse easily in the case of circulant matrices, the
+
 * https://research.utwente.nl/en/publications/functional-programming-with-bananas-lenses-envelopes-and-barbed-w
 * [how is a graph like a manifold](https://arxiv.org/pdf/math/0206103.pdf)
 * http://web.archive.org/web/20160316230842/http://comonad.com/reader/2009/recursion-schemes/
 * cohomology computation
 * tangent bundle is the adjoint of sorts
 * turning a line into a circle/group with an exponent
-* `exp(x) = cos(x) * i*sin(x)`
+* `exp(x) = cos(x) + i*sin(x)`
+* `exp(x, ortho) = cos(x) + ortho * sin(x)`
 
 * https://en.wikipedia.org/wiki/Traced_monoidal_category
   * (As shown later [12], the dynamical part of the Geometry of Interaction system was implemented using precisely the same tools required to model reversible (space-bounded) Turing machines).
@@ -20,7 +39,7 @@
 
 * https://plato.stanford.edu/entries/logic-linear/#hyland00ic
 
-* extensional intensional = value vs reference
+* extensional vs intensional = value vs reference
 * moral proofs
 * linear (affine) logic is decidable and therefore rice's theorem does not apply
   * from plato.stanford.edu
