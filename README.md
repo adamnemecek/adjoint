@@ -1,5 +1,7 @@
 # Adjointness, norm, fixed point and you...
 <!--
+* [The Fourier transform is a neural network](https://sidsite.com/posts/fourier-nets/)
+
 * [triangular matrix](https://en.wikipedia.org/wiki/Triangular_matrix#Forward_substitution)
   * A matrix equation in the form {\displaystyle L\mathbf {x} =\mathbf {b} }{\displaystyle L\mathbf {x} =\mathbf {b} } or {\displaystyle U\mathbf {x} =\mathbf {b} }{\displaystyle U\mathbf {x} =\mathbf {b} } is very easy to solve by an iterative process called forward substitution for lower triangular matrices and analogously back substitution for upper triangular matrices. The process is so called because for lower triangular matrices, one first computes {\displaystyle x_{1}}x_{1}, then substitutes that forward into the next equation to solve for {\displaystyle x_{2}}x_{2}, and repeats through to {\displaystyle x_{n}}x_{n}. In an upper triangular matrix, one works backwards, first computing {\displaystyle x_{n}}x_{n}, then substituting that back into the previous equation to solve for {\displaystyle x_{n-1}}x_{n-1}, and repeating through {\displaystyle x_{1}}x_{1}.
 * are dual numbers and orthogonality are kind of the same
