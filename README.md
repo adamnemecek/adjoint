@@ -1,5 +1,6 @@
 # Adjointness, norm, fixed point and you...
 <!--
+* cotangent space = causality?
 * [The Fourier transform is a neural network](https://sidsite.com/posts/fourier-nets/)
 
 * [triangular matrix](https://en.wikipedia.org/wiki/Triangular_matrix#Forward_substitution)
