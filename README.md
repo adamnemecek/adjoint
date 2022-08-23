@@ -1,13 +1,17 @@
 # Adjointness, norm, fixed point and you...
 * [Join the `Adjoint` discord server](https://discord.gg/mr9TAhpyBW)
 <!--
+* https://twitter.com/SebastjanVoros/status/1499453039056465932
+  * calculus of self-reference
+  * https://gist.github.com/adamnemecek/4d88cde664f0e93548a65f36990c165e
 * [From parametricity to conservation laws, via Noether's theorem](https://dl.acm.org/doi/10.1145/2535838.2535867)
   * programming using lagrangians
   * Invariance is of paramount importance in programming languages and in physics. In programming languages,
 
 * is the point of fixed points that they are points in a space that are commutative?
   https://twitter.com/johncarlosbaez/status/1562102229724585990
-  * 
+  * https://en.wikipedia.org/wiki/Braided_monoidal_category
+
 * is the euler's formula really about relationship between `split-complex numbers`, `dual numbers` and `complex numbers`
 
 * pca genetics https://medium.com/swlh/a-gentle-introduction-into-the-application-of-principal-component-analysis-pca-in-genomics-269026453295
