@@ -1,6 +1,10 @@
 # Adjointness, norm, fixed point and you...
 * [Join the `Adjoint` discord server](https://discord.gg/mr9TAhpyBW)
 <!--
+* [From parametricity to conservation laws, via Noether's theorem](https://dl.acm.org/doi/10.1145/2535838.2535867)
+  * programming using lagrangians
+  * Invariance is of paramount importance in programming languages and in physics. In programming languages,
+
 * is the point of fixed points that they are points in a space that are commutative?
   https://twitter.com/johncarlosbaez/status/1562102229724585990
   * 
