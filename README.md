@@ -1,6 +1,7 @@
 # Adjointness, norm, fixed point and you...
 * [Join the `Adjoint` discord server](https://discord.gg/mr9TAhpyBW)
 <!--
+* iconic math books
 * https://twitter.com/SebastjanVoros/status/1499453039056465932
   * calculus of self-reference
   * https://gist.github.com/adamnemecek/4d88cde664f0e93548a65f36990c165e
@@ -11,6 +12,9 @@
 * is the point of fixed points that they are points in a space that are commutative?
   https://twitter.com/johncarlosbaez/status/1562102229724585990
   * https://en.wikipedia.org/wiki/Braided_monoidal_category
+  * i guess one can think of this as a OS schedulers, when a lock is unlocked
+    * the threads t1, t2 can either be scheduled as t2, or t1 since it's commutative
+  * which matrices are commutative?
 
 * is the euler's formula really about relationship between `split-complex numbers`, `dual numbers` and `complex numbers`
 
