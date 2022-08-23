@@ -1,5 +1,12 @@
 # Adjointness, norm, fixed point and you...
+* [Join the `Adjoint` discord server](https://discord.gg/mr9TAhpyBW)
 <!--
+* is the point of fixed points that they are points in a space that are commutative?
+  https://twitter.com/johncarlosbaez/status/1562102229724585990
+  * 
+* is the euler's formula really about relationship between `split-complex numbers`, `dual numbers` and `complex numbers`
+
+* pca genetics https://medium.com/swlh/a-gentle-introduction-into-the-application-of-principal-component-analysis-pca-in-genomics-269026453295
 * cotangent space = causality?
 * [The Fourier transform is a neural network](https://sidsite.com/posts/fourier-nets/)
 
