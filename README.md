@@ -1,6 +1,10 @@
 # Adjointness, norm, fixed point and you...
 * [Join the `Adjoint` discord server](https://discord.gg/mr9TAhpyBW)
 <!--
+* [Program Synthesis with Equivalence Reduction](https://par.nsf.gov/servlets/purl/10100598)
+  * "How can we exploit operator semantics to efficiently explore large spaces of candidate programs?"
+* "fixed point" cotangent
+  * https://legacy-www.math.harvard.edu/history/bott/bottbio/node18.html
 * iconic math books
 * https://twitter.com/SebastjanVoros/status/1499453039056465932
   * calculus of self-reference
