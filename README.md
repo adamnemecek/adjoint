@@ -1,6 +1,25 @@
 # Adjointness, norm, fixed point and you...
 * [Join the `Adjoint` discord server](https://discord.gg/mr9TAhpyBW)
 <!--
+
+## orthogonality
+  * what is orthogonality in the context of programming?
+  * what is duality in the context of programming
+  * i guess if you have an if statement,
+```swift
+  if a {
+    b
+  } else {
+    c
+  }
+```
+statements b and c are orthogonal to each other (can't happen at once)
+but statements a, b are dual to each other and so are a, c dual to each other
+* orthogonality also means rotated by one unit (think how in fourier)
+* think about transition matrices and orthogonality
+  * A term rewriting system is said to be orthogonal if it is left-linear and is non-ambiguous. Orthogonal term rewriting systems are confluent.
+  * In combinatorics, two n×n Latin squares are said to be orthogonal if their superimposition yields all possible n2 combinations of entries.[15]
+
 * [Program Synthesis with Equivalence Reduction](https://par.nsf.gov/servlets/purl/10100598)
   * "How can we exploit operator semantics to efficiently explore large spaces of candidate programs?"
 * "fixed point" cotangent
