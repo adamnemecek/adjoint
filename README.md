@@ -2,7 +2,35 @@
 * [Join the `Adjoint` discord server](https://discord.gg/mr9TAhpyBW)
 <!--
 
+* branch and bound
+* https://qchu.wordpress.com/2012/11/06/string-diagrams-duality-and-trace/
+
+* i have been working under the assumption that i need to find periodicity of the whole program, what if i need to find periodicity of 
+  * 
+* discrete fourier transform
+  * 
+* bisimulation
+* lattice fourier found
+* reciprocal lattice
+  * bravais lattice (there is only 14 of them)
+  * i wonder if the solution is that there will be a super lattice that if you shine light on it will light up only certain points on the lattice (thereby selecting the particular lattice) and then you can shine more light on it and read off the diffraction pattern
+* reciprocal lattice vectors
+  * see 
+* crystals are defined by their pattern
+* i wonder if the trick is that you calculate the spectrum of the program (since it has a group structure) and then also calculate the 
+* in the travelling salesman problem
+* noga alon
+  * spectral graph
+  * he talks about how
+* [Simulation and Bisimulations for Probabilistic Systems, and their Logical Contents](https://www.youtube.com/watch?v=j31R8r3YuzY)
+
+
+* "computational algebraic geometry technique for determining nonlinear normal modes of structural systems"
+* [adjoint functors and monads](https://ahilado.wordpress.com/2017/06/20/adjoint-functors-and-monads/)
+
 ## orthogonality
+  * it means mutually exclusive
+    * "In taxonomy, an orthogonal classification is one in which no item is a member of more than one group, that is, the classifications are mutually exclusive."
   * what is orthogonality in the context of programming?
   * what is duality in the context of programming
   * i guess if you have an if statement,
@@ -19,6 +47,7 @@ but statements a, b are dual to each other and so are a, c dual to each other
 * think about transition matrices and orthogonality
   * A term rewriting system is said to be orthogonal if it is left-linear and is non-ambiguous. Orthogonal term rewriting systems are confluent.
   * In combinatorics, two n×n Latin squares are said to be orthogonal if their superimposition yields all possible n2 combinations of entries.[15]
+*
 
 * [Program Synthesis with Equivalence Reduction](https://par.nsf.gov/servlets/purl/10100598)
   * "How can we exploit operator semantics to efficiently explore large spaces of candidate programs?"
