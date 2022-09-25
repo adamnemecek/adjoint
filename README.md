@@ -1,23 +1,88 @@
 # Adjointness, norm, fixed point and you...
 * [Join the `Adjoint` discord server](https://discord.gg/mr9TAhpyBW)
 <!--
+* lll lattice algorithm
+  * boaz barak lecture notes
+
+* https://twitter.com/Lavoisierbug/status/1573897118942519297
+  * simple dependently typed langauge 
+
+* "linear logic" "factorization systems"
+   * orthomodular lattice (see vaughan pratt paper on quantum mechanics)
+   * martin hyland
+   * chu spaces factorizations
+* p == np
+   * i guess you fourier the program and the data and then do piecewise
+   * check out 
+
+* dual polynomials
+    * i wonder if the trick is that if we represent polynomials in terms of extrema, we have more information about the polynomials since the extrema are projective zeros
+  * when you keep projecting minima, you will eventually get a zero
+      * what is multiplication by (0 + eps) and (1 + eps)
+
+  * central limit theorem
+
+* read
+* think that the problem
+
+* from https://ncatlab.org/nlab/show/well-pointed+topos#general
+* To maintain this logical result in constructive mathematics (that is, without excluded middle in the metalogic), one must add the following requirements:
+    * the terminal object is indecomposable, and
+    * the terminal object is projective.
+
+
+* google topos "fixed point"
+    * Martin-Löf′s partial type theory, i.e., type theory with a fixed point operator, is extended with universes and given a domain-theoretic interpretation using
+    * the beauty about "partial types with a fixed point" is that you can infer the complete lattice (since you have a fixed point)
+
+* the reason why you dont want exluded middle is because that's the thing you are calculating in some sense, you don't want it to be
+    * excluded middle == orthogonality
+    * it's not that the property itself is
+
+
+* what is orthogonality in the context of linear logic and programs
+
+* look into coherent spaces
+    * this is an interpretation of logic as dual banach spaces
+* i guess a topos is a point in a space that has a fixed point
+    *
+
+* how does fourier of programs work?
+    * bisimulation
+
+* what is the orthogonality in fourier,
+should this be the program
+
+*
+* a linked list is nilpotent since if you keep `next^n(l)`
+
+
+* commutatity = orthogonality (note how orthogonal matrices commute, it's order invariant)
+* distributativity = adjoints
+* associativity = norm/delooping (see ncatlab on associativy)
+
+* contravariant lattice
 
 * branch and bound
+  * this is essentially adjoint and norm
+  *
+
 * https://qchu.wordpress.com/2012/11/06/string-diagrams-duality-and-trace/
 
-* i have been working under the assumption that i need to find periodicity of the whole program, what if i need to find periodicity of 
-  * 
+* i have been working under the assumption that i need to find periodicity of the whole program, what if i need to find periodicity of each of the possible execution traces? i imagine that these will have something in common that can be factored outs
+  * check out the clausen formula
+  *
 * discrete fourier transform
-  * 
+  *
 * bisimulation
 * lattice fourier found
 * reciprocal lattice
   * bravais lattice (there is only 14 of them)
   * i wonder if the solution is that there will be a super lattice that if you shine light on it will light up only certain points on the lattice (thereby selecting the particular lattice) and then you can shine more light on it and read off the diffraction pattern
 * reciprocal lattice vectors
-  * see 
+  * see
 * crystals are defined by their pattern
-* i wonder if the trick is that you calculate the spectrum of the program (since it has a group structure) and then also calculate the 
+* i wonder if the trick is that you calculate the spectrum of the program (since it has a group structure) and then also calculate the
 * in the travelling salesman problem
 * noga alon
   * spectral graph
@@ -77,9 +142,9 @@ but statements a, b are dual to each other and so are a, c dual to each other
 * [triangular matrix](https://en.wikipedia.org/wiki/Triangular_matrix#Forward_substitution)
   * A matrix equation in the form {\displaystyle L\mathbf {x} =\mathbf {b} }{\displaystyle L\mathbf {x} =\mathbf {b} } or {\displaystyle U\mathbf {x} =\mathbf {b} }{\displaystyle U\mathbf {x} =\mathbf {b} } is very easy to solve by an iterative process called forward substitution for lower triangular matrices and analogously back substitution for upper triangular matrices. The process is so called because for lower triangular matrices, one first computes {\displaystyle x_{1}}x_{1}, then substitutes that forward into the next equation to solve for {\displaystyle x_{2}}x_{2}, and repeats through to {\displaystyle x_{n}}x_{n}. In an upper triangular matrix, one works backwards, first computing {\displaystyle x_{n}}x_{n}, then substituting that back into the previous equation to solve for {\displaystyle x_{n-1}}x_{n-1}, and repeating through {\displaystyle x_{1}}x_{1}.
 * are dual numbers and orthogonality are kind of the same
-orthogonal means 
+orthogonal means
   * `M * transpose(M) = I`
-  * `M * 
+  * `M *
 
 
 * range is a manifold
