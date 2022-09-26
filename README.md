@@ -1,8 +1,21 @@
 # Adjointness, norm, fixed point and you...
 * [Join the `Adjoint` discord server](https://discord.gg/mr9TAhpyBW)
 <!--
+
+* fourier group connection
+  * check out dft wiki
+    * check out the clockface
+  * `fou(k, n, N) = exp((-im * 2pi * k * n) / N)`
+
+* quantum entropy
+  * is fourier and entropy related
+    one is `\sigma(x * exp(...))` other one is `sigma(x * log(x))`
+  * kl divergence gets rid of the minus sign
+    * fourier projects 
+
 * lll lattice algorithm
   * boaz barak lecture notes
+  * lattice reduction
 
 * https://twitter.com/Lavoisierbug/status/1573897118942519297
   * simple dependently typed langauge 
@@ -12,7 +25,7 @@
    * martin hyland
    * chu spaces factorizations
 * p == np
-   * i guess you fourier the program and the data and then do piecewise
+   * i guess you fourier the program and the data and then do piecewise (?)
    * check out 
 
 * dual polynomials
