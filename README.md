@@ -5,6 +5,10 @@
 * dijkstras semantics
   * ralph levien: https://news.ycombinator.com/item?id=32919426
 
+* miniagda
+  * https://twitter.com/Lavoisierbug/status/1573897118942519297
+  * https://www.cse.chalmers.se/~abela/miniagda/#:~:text=bounded%20lambda%2Dabstraction,when%20i%20%3D%200
+
 * reversible computation
   * curerntly computation is a semi-group, it should be a group
 
