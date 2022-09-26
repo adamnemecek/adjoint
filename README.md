@@ -2,6 +2,12 @@
 * [Join the `Adjoint` discord server](https://discord.gg/mr9TAhpyBW)
 <!--
 
+* dijkstras semantics
+  * ralph levien: https://news.ycombinator.com/item?id=32919426
+
+* reversible computation
+  * curerntly computation is a semi-group, it should be a group
+
 * fourier group connection
   * check out dft wiki
     * check out the clockface
