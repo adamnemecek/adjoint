@@ -1,6 +1,23 @@
 # Adjointness, norm, fixed point and you...
 * [Join the `Adjoint` discord server](https://discord.gg/mr9TAhpyBW)
 <!--
+* windwing number is very similar
+   * [Brouwers Fixed Point Theorem Proof using Winding Numbers](https://math.stackexchange.com/questions/3674669/brouwers-fixed-point-theorem-proof-using-winding-numbers)
+
+* de rahm twisted cohomology
+  * [Twisted de Rham cohomology, homological definition of the integral and "Physics over a ring"]https://arxiv.org/abs/0809.0086
+  * Definition. Physics is a part of mathematics devoted to the calculation of integrals of the form g(x)e^f(x)dx. Different branches of physics are distinguished by the range of the variable x and by the names used for f(x), g(x) and for the integral. For example, in classical statistical physics x runs over a symplec- tic manifold, f(x) is called the Hamiltonian function and the integral has the meaning of a partition function or of a correlation function. In a d-dimensional quantum field theory x runs over the space of functions on a d-dimensional manifold (the space of fields) and f(x) is interpreted as an action functional.
+  * note how this is a lot like fourier
+  * its an inner product (sum of a * b) where b is the circle
+
+* api is a fixed point
+  * the returned value
+
+* characters groups
+  * https://en.wikipedia.org/wiki/Character_group
+  * We can express explicit elements in the character group as follows: recall that elements in `U(1)` can be expressed as `exp(tau * i * x)`
+  * thereby we can express fourier (as below) `fou(k, n, N) = u1(-k * n / N)`
+
 
 * dijkstras semantics
   * ralph levien: https://news.ycombinator.com/item?id=32919426
@@ -12,23 +29,26 @@
 * reversible computation
   * curerntly computation is a semi-group, it should be a group
 
-* fourier group connection
+* fourier-group connection
+
   * check out dft wiki
     * check out the clockface
-  * `fou(k, n, N) = exp((-im * 2pi * k * n) / N)`
+    * `fou(k, n, N) = exp(-im * tau * (k * n) / N)`
+    * fou projects a linear thing to a clock face
+    * entropy connection (below)
 
 * quantum entropy
   * is fourier and entropy related
     one is `\sigma(x * exp(...))` other one is `sigma(x * log(x))`
   * kl divergence gets rid of the minus sign
-    * fourier projects 
+    * fourier projects
 
 * lll lattice algorithm
   * boaz barak lecture notes
   * lattice reduction
 
 * https://twitter.com/Lavoisierbug/status/1573897118942519297
-  * simple dependently typed langauge 
+  * simple dependently typed langauge
 
 * "linear logic" "factorization systems"
    * orthomodular lattice (see vaughan pratt paper on quantum mechanics)
@@ -36,7 +56,7 @@
    * chu spaces factorizations
 * p == np
    * i guess you fourier the program and the data and then do piecewise (?)
-   * check out 
+   * check out
 
 * dual polynomials
     * i wonder if the trick is that if we represent polynomials in terms of extrema, we have more information about the polynomials since the extrema are projective zeros
