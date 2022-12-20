@@ -1,6 +1,7 @@
 # Adjointness, norm, fixed point and you...
 * [Join the `Adjoint` discord server](https://discord.gg/mr9TAhpyBW)
 <!--
+* what's the deal with vanishing traces?
 
 * riesz representation theorem
     * see the wikipedia on anti-linearity it sure looks like a fourier?

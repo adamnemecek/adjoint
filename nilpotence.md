@@ -7,6 +7,12 @@
 * how is fourier nilpotent
 * jacobian
 * backpropagation
+* vanishing trace
+* evaluating derivatives
+* lie grou pprobability
+* oeprator probability
+* differentiable dynamic programming
+*
 
 
 # Zero to infinity
@@ -14,7 +20,7 @@
 
 * this relies on metricity to measure the 0 and
 
-* 
+*
 
 * ok how is this relevant to adjoint and norm?
 * nilpotent is the update rule or the rules of the game
@@ -35,7 +41,7 @@ The adjoint is the other options that you are considering for the particular fie
 ##
 `pow(a, b) = exp(log(a) * b)`
 
-## physics
+## physicss
 physics is just a
 
 ## programming
@@ -58,7 +64,7 @@ See Jordan Curve definition `theta(0) = theta(1)` and no intersection.
 
 ## if statement
 
-I guess you can think of an if statement as an adjoint of the state, it lists the possibilities. 
+I guess you can think of an if statement as an adjoint of the state, it lists the possibilities.
 
 ## distributional hypothesis
 
@@ -72,7 +78,7 @@ Winding numbers connection brouwers fixed point theorem.
 ## what if the commuter is the mse?
 *
 
-
+## traced monoidal
 
 ## qr decomposition
 * upper triangular matrix
@@ -162,7 +168,7 @@ Central limit theorem as a fixed point of
 
 ## linear logic
 
-As per the Bell, the inifitesimal calculus doesn't have just like linear logic.
+As per the Bell, the  calculus doesn't have just like linear logic.
 
 ## pde
 You are trying to find an update rule which is 0.
