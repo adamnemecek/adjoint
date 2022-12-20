@@ -4,7 +4,7 @@
 * learn more reinforcement learning
 * how is this related to
 * self-adjoint inner product
-* 
+* how is fourier nilpotent
 
 
 # Zero to infinity
@@ -30,7 +30,7 @@ How is this related to say?
 
 ## dynamic programming
 You are updating until you can't improve, thereby makeing the update rule 0.
-The adjoint is the other options that you are considering.
+The adjoint is the other options that you are considering for the particular field.
 
 
 ## physics
@@ -51,7 +51,10 @@ exp(0) = 1
 exp(tau * im) = 1
 ```
 
+
 See Jordan Curve definition `theta(0) = theta(1)` and no intersection.
+
+## if
 
 ## distributional hypothesis
 
@@ -68,6 +71,11 @@ See Jordan Curve definition `theta(0) = theta(1)` and no intersection.
 ## qr decomposition
 * upper triangular matrix
     * what if the upper triangular matrix is the if statements
+Upper triangular matrix is [back substitution](https://en.wikipedia.org/wiki/Triangular_matrix#Forward_substitution).
+
+You can think of it as the update rule or gradient. Machine learning fundamentally performs a qr decomposition where we are trying to minimize the .
+
+You can think
 
 ## commutativity and nilpotence
 * qr decomposition
@@ -110,6 +118,7 @@ Maybe Fourier is like this, but in this scenario, we are trying to find a cycle,
 maybe with the
 
 ## nullstellensatz
+Read the wikipedia page, talks about vanishing.
 
 ## group character
 * u1()
