@@ -3,6 +3,8 @@
 * how is this related to winding numbers and browers theorem
 * learn more reinforcement learning
 * how is this related to
+* self-adjoint inner product
+* 
 
 
 # Zero to infinity
@@ -35,19 +37,21 @@ The adjoint is the other options that you are considering.
 physics is just a
 
 ## programming
-Onen can think of a program as a tangent space, the state at any point is the value
+One can think of a program as a tangent space.
+The state at any time `t` is the some value `x_t`.
 
 `f(t) = state of computer at time t`
 `f'(t) = update rule`
 
 ## exponent
 The magical property of the exponent is that it wraps around
+
 ```
 exp(0) = 1
 exp(tau * im) = 1
 ```
 
-See Jordan Curve definition `theta(0) = theta(1)`.
+See Jordan Curve definition `theta(0) = theta(1)` and no intersection.
 
 ## distributional hypothesis
 
