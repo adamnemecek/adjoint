@@ -23,7 +23,6 @@
   * We can express explicit elements in the character group as follows: recall that elements in `U(1)` can be expressed as `exp(tau * i * x)`
   * thereby we can express fourier (as below) `fou(k, n, N) = u1(-k * n / N)`
 
-
 * dijkstras semantics
   * ralph levien: https://news.ycombinator.com/item?id=32919426
 
@@ -172,7 +171,7 @@ but statements a, b are dual to each other and so are a, c dual to each other
   * https://gist.github.com/adamnemecek/4d88cde664f0e93548a65f36990c165e
 * [From parametricity to conservation laws, via Noether's theorem](https://dl.acm.org/doi/10.1145/2535838.2535867)
   * programming using lagrangians
-  * Invariance is of paramount importance in programming languages and in physics. In programming languages,
+  * Invariance is of pargamount importance in programming languages and in physics. In programming languages,
 
 * is the point of fixed points that they are points in a space that are commutative?
   https://twitter.com/johncarlosbaez/status/1562102229724585990

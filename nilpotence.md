@@ -5,16 +5,16 @@
 * how is this related to
 * self-adjoint inner product
 * how is fourier nilpotent
+* jacobian
+* backpropagation
 
 
 # Zero to infinity
-
-
 * f: Y -> Y, means that f: Y' -> 0 any update rule you might has the
 
 * this relies on metricity to measure the 0 and
 
-*
+* 
 
 * ok how is this relevant to adjoint and norm?
 * nilpotent is the update rule or the rules of the game
@@ -32,6 +32,8 @@ How is this related to say?
 You are updating until you can't improve, thereby makeing the update rule 0.
 The adjoint is the other options that you are considering for the particular field.
 
+##
+`pow(a, b) = exp(log(a) * b)`
 
 ## physics
 physics is just a
@@ -54,26 +56,30 @@ exp(tau * im) = 1
 
 See Jordan Curve definition `theta(0) = theta(1)` and no intersection.
 
-## if
+## if statement
+
+I guess you can think of an if statement as an adjoint of the state, it lists the possibilities. 
 
 ## distributional hypothesis
 
-
 ## sign analysis
-    * winding numbers brouwers fixed point theorem
+
+## knot invariants
 
 ## winding numbers
-
+Winding numbers connection brouwers fixed point theorem.
 
 ## what if the commuter is the mse?
 *
+
+
 
 ## qr decomposition
 * upper triangular matrix
     * what if the upper triangular matrix is the if statements
 Upper triangular matrix is [back substitution](https://en.wikipedia.org/wiki/Triangular_matrix#Forward_substitution).
 
-You can think of it as the update rule or gradient. Machine learning fundamentally performs a qr decomposition where we are trying to minimize the .
+You can think of it as the update rule or gradient. Machine learning fundamentally performs a qr decomposition where we are trying to minimize the update .
 
 You can think
 
@@ -159,4 +165,7 @@ Central limit theorem as a fixed point of
 As per the Bell, the inifitesimal calculus doesn't have just like linear logic.
 
 ## pde
+You are trying to find an update rule which is 0.
 
+## traced monoidal categories
+* https://en.wikipedia.org/wiki/Traced_monoidal_category
