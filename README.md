@@ -1,12 +1,17 @@
 # Adjointness, norm, fixed point and you...
 * [Join the `Adjoint` discord server](https://discord.gg/mr9TAhpyBW)
 <!--
+
+* riesz representation theorem
+    * see the wikipedia on anti-linearity it sure looks like a fourier?
+
+
 * windwing number is very similar
    * [Brouwers Fixed Point Theorem Proof using Winding Numbers](https://math.stackexchange.com/questions/3674669/brouwers-fixed-point-theorem-proof-using-winding-numbers)
 
 * de rahm twisted cohomology
   * [Twisted de Rham cohomology, homological definition of the integral and "Physics over a ring"]https://arxiv.org/abs/0809.0086
-  * Definition. Physics is a part of mathematics devoted to the calculation of integrals of the form g(x)e^f(x)dx. Different branches of physics are distinguished by the range of the variable x and by the names used for f(x), g(x) and for the integral. For example, in classical statistical physics x runs over a symplec- tic manifold, f(x) is called the Hamiltonian function and the integral has the meaning of a partition function or of a correlation function. In a d-dimensional quantum field theory x runs over the space of functions on a d-dimensional manifold (the space of fields) and f(x) is interpreted as an action functional.
+  * Definition. Physics is a part of mathematics devoted to the calculation of integrals of the form g(x)e^f(x)dx. Different branches of physics are distinguished by the range of the variable x and by the names used for f(x), g(x) and for the integral. For example, in classical statistical physics x runs over a symplectic manifold, f(x) is called the Hamiltonian function and the integral has the meaning of a partition function or of a correlation function. In a d-dimensional quantum field theory x runs over the space of functions on a d-dimensional manifold (the space of fields) and f(x) is interpreted as an action functional.
   * note how this is a lot like fourier
   * its an inner product (sum of a * b) where b is the circle
 
@@ -32,7 +37,7 @@
 * fourier-group connection
 
   * check out dft wiki
-    * check out the clockface
+    * check out the clockface (https://en.wikipedia.org/w/index.php?title=Discrete_Fourier_transform&oldid=1102326617)
     * `fou(k, n, N) = exp(-im * tau * (k * n) / N)`
     * fou projects a linear thing to a clock face
     * entropy connection (below)
