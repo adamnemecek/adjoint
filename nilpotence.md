@@ -10,9 +10,12 @@
 * vanishing trace
 * evaluating derivatives
 * lie grou pprobability
-* oeprator probability
+* operator probability
 * differentiable dynamic programming
-*
+* type inference
+* 
+
+
 
 
 # Zero to infinity
@@ -20,11 +23,11 @@
 
 * this relies on metricity to measure the 0 and
 
+
 *
 
 * ok how is this relevant to adjoint and norm?
 * nilpotent is the update rule or the rules of the game
-
 
 Lawvere's fixed point theorem can be used for this.
 
@@ -33,6 +36,14 @@ A neural network fundamentally does this, you are trying to find matrices minimi
 You have an update rule that converges on zero (like )
 
 How is this related to say?
+
+## rieman tensor
+This came out of researching tensor.
+Ricci calculus, definite positive (has inner product), double differentiable, defines orthogonality.
+
+## nonconvex optimization 
+Since f is differentiable and convex, a necessary and sufficient condition for a point x⋆ to be optimal is
+∇f(x⋆) = 0 (from convex optimization chapter 9)
 
 ## dynamic programming
 You are updating until you can't improve, thereby makeing the update rule 0.
@@ -169,6 +180,8 @@ Central limit theorem as a fixed point of
 ## linear logic
 
 As per the Bell, the  calculus doesn't have just like linear logic.
+
+- C* connection.
 
 ## pde
 You are trying to find an update rule which is 0.
